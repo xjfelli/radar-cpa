@@ -2,6 +2,7 @@
 
 import hashlib
 import json
+from collections.abc import Iterator
 from datetime import date, datetime, timedelta
 
 VERSAO = 1
@@ -45,7 +46,7 @@ def validar(status: dict, cadastro: dict) -> None:
         raise ValueError("status.json invalido: " + "; ".join(erros))
 
 
-def _erros_do_evento(evento: dict, ids_validos: set[str]):
+def _erros_do_evento(evento: dict, ids_validos: set[str]) -> Iterator[str]:
     if not _e_data(evento.get("data")):
         yield "data invalida"
     if evento.get("nivel") not in NIVEIS:
@@ -62,7 +63,7 @@ def _erros_do_evento(evento: dict, ids_validos: set[str]):
         yield "titulo invalido"
 
 
-def _e_data(valor) -> bool:
+def _e_data(valor: object) -> bool:
     try:
         date.fromisoformat(valor)
     except (TypeError, ValueError):

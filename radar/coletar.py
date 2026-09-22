@@ -7,6 +7,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Any
 
 from radar import iomat, noticias, status
 
@@ -43,10 +44,10 @@ def main() -> int:
     agora = datetime.now(CUIABA)
     cadastro = _ler_json(DADOS / "orgaos.json")
     calendario = _ler_json(DADOS / "calendario.json")
-    fontes: list[dict] = []
 
-    diario = _coletar_iomat(agora, fontes)
-    itens = _coletar_feeds(fontes)
+    diario, fonte_diario = _coletar_iomat(agora)
+    itens, fontes_feeds = _coletar_feeds()
+    fontes = [fonte_diario, *fontes_feeds]
     extras = {
         "eventos": [*diario["eventos"], *noticias.extrair_eventos(itens, cadastro, agora)],
         "cancelamentos": diario["cancelamentos"],
@@ -63,7 +64,8 @@ def main() -> int:
     return 0
 
 
-def _coletar_iomat(agora: datetime, fontes: list[dict]) -> dict:
+def _coletar_iomat(agora: datetime) -> tuple[dict, dict]:
+    nome = "Diário Oficial de MT"
     inicio = (agora.date() - timedelta(days=DIAS_DE_DIARIO)).isoformat()
     hits: dict[str, dict] = {}
     try:
@@ -76,25 +78,28 @@ def _coletar_iomat(agora: datetime, fontes: list[dict]) -> dict:
                 if len(resultado) < RESULTADOS_POR_PAGINA:
                     break
     except Exception as erro:  # fonte fora do ar não pode derrubar as demais
-        log.warning("IOMAT falhou: %s", erro)
-        fontes.append({"nome": "Diário Oficial de MT", "ok": False, "erro": type(erro).__name__})
-        return {"eventos": [], "cancelamentos": []}
-    fontes.append({"nome": "Diário Oficial de MT", "ok": True, "erro": None})
-    return iomat.extrair_eventos(list(hits.values()), hoje=agora.date())
+        log.warning("%s falhou: %s", nome, erro)
+        return {"eventos": [], "cancelamentos": []}, _situacao(nome, erro)
+    return iomat.extrair_eventos(list(hits.values()), hoje=agora.date()), _situacao(nome)
 
 
-def _coletar_feeds(fontes: list[dict]) -> list[dict]:
-    itens = []
+def _coletar_feeds() -> tuple[list[dict], list[dict]]:
+    itens: list[dict] = []
+    situacoes: list[dict] = []
     for nome, url in FEEDS.items():
         try:
             lidos = noticias.ler_rss(_baixar(url), fonte=nome)
-        except Exception as erro:
+        except Exception as erro:  # idem: um feed fora do ar não derruba os outros
             log.warning("%s falhou: %s", nome, erro)
-            fontes.append({"nome": nome, "ok": False, "erro": type(erro).__name__})
+            situacoes.append(_situacao(nome, erro))
             continue
-        fontes.append({"nome": nome, "ok": True, "erro": None})
+        situacoes.append(_situacao(nome))
         itens.extend(lidos)
-    return itens
+    return itens, situacoes
+
+
+def _situacao(nome: str, erro: Exception | None = None) -> dict:
+    return {"nome": nome, "ok": erro is None, "erro": type(erro).__name__ if erro else None}
 
 
 def _baixar(url: str) -> bytes:
@@ -103,7 +108,7 @@ def _baixar(url: str) -> bytes:
         return resposta.read()
 
 
-def _ler_json(caminho: Path):
+def _ler_json(caminho: Path) -> Any:
     return json.loads(caminho.read_text(encoding="utf-8"))
 
 

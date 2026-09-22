@@ -1,11 +1,10 @@
 // Radar CPA — estado e renderização. Regras de negócio ficam em core.js.
 
-import { calcularDia, horasDesde, proximasDatas } from "./core.js";
+import { calcularDia, estaDesatualizado, horasDesde, proximasDatas } from "./core.js";
 import { criarFolha } from "./folha.js";
 import { criarMapa } from "./mapa.js";
 
 const FUSO = "America/Cuiaba";
-const HORAS_PARA_DESATUALIZADO = 14;
 const MAX_PROXIMAS_DATAS = 8;
 const MAX_SIGLAS_NO_TITULO = 3;
 const ALTURA_PEEK = 148;
@@ -99,7 +98,7 @@ function renderizarAtualizacao(status) {
   const alvo = $("atualizado");
   const quando = new Date(status.gerado_em);
   const dia = FORMATO_DIA_ISO.format(quando) === FORMATO_DIA_ISO.format(new Date()) ? "hoje" : FORMATO_CURTO.format(quando);
-  const desatualizado = horas > HORAS_PARA_DESATUALIZADO;
+  const desatualizado = estaDesatualizado(status.gerado_em);
   alvo.classList.toggle("desatualizado", desatualizado);
   alvo.textContent = desatualizado
     ? `⚠︎ Dados de ${horas}h atrás`
@@ -228,7 +227,8 @@ function mostrarFalha(erro) {
   $("resumo-detalhe").textContent = "Verifique a conexão e tente de novo.";
   const tentar = el("button", { class: "tentar", type: "button" }, "Tentar de novo");
   tentar.addEventListener("click", () => location.reload());
-  $("painel-lista").replaceChildren(el("p", { class: "sub" }, String(erro.message || erro)), tentar);
+  $("painel-lista").replaceChildren(el("p", { class: "sub" }, "Os dados do radar não puderam ser baixados agora."), tentar);
+  console.error("Radar CPA: falha ao carregar dados", erro);
 }
 
 // ---------- Utilitários ----------

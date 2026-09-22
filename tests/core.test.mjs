@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 
-import { calcularDia, horasDesde, proximasDatas } from "../assets/core.js";
+import { calcularDia, estaDesatualizado, horasDesde, proximasDatas } from "../assets/core.js";
 
 const orgaos = [
   { id: "seduc", porte: "G" }, // peso 3
@@ -82,4 +82,11 @@ test("próximas datas agrupam eventos depois dos dias exibidos, em ordem", () =>
   assert.deepEqual(proximas.map((d) => d.data), ["2026-10-05", "2026-10-12"]);
   assert.equal(proximas[1].eventos.length, 2);
   assert.equal(proximas[1].nivel, "vermelho");
+});
+
+test("dado fica desatualizado assim que passa de 14h, sem esperar a hora cheia", () => {
+  const carimbo = "2026-09-22T19:07-04:00";
+
+  assert.equal(estaDesatualizado(carimbo, new Date("2026-09-23T09:06:00-04:00")), false); // 13h59
+  assert.equal(estaDesatualizado(carimbo, new Date("2026-09-23T09:37:00-04:00")), true); // 14h30
 });

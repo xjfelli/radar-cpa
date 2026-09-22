@@ -27,6 +27,16 @@ class ExtrairEventosDoDiarioOficial(unittest.TestCase):
         self.assertTrue(evento["fonte"]["oficial"])
         self.assertEqual(evento["fonte"]["url"], "https://www.iomat.mt.gov.br/portal/edicoes/download/19020/1")
 
+    def test_expediente_ate_as_13h_vira_vermelho_com_o_horario_no_detalhe(self):
+        [hit] = carregar("decreto_1980_a_partir_13h_extra")
+        conteudo = hit["_source"]["conteudo"].replace("a partir das 13 horas", "com expediente até as 13 horas")
+        ate_13h = {**hit, "_source": {**hit["_source"], "conteudo": conteudo}}
+
+        [evento] = iomat.extrair_eventos([ate_13h], hoje=date(2026, 4, 1))["eventos"]
+
+        self.assertEqual(evento["nivel"], "vermelho")
+        self.assertEqual(evento["detalhe"], "Expediente até as 13h")
+
     def test_decreto_so_para_cuiaba_vale_para_o_cpa_o_dia_todo(self):
         resultado = iomat.extrair_eventos(carregar("decreto_1981_so_cuiaba"), hoje=date(2026, 4, 6))
 

@@ -5,6 +5,7 @@ Saída: eventos para o calendário do Executivo estadual ("EST") e cancelamentos
 """
 
 import re
+from collections.abc import Iterator
 from datetime import date
 
 from radar.texto import montar_data, normalizar
@@ -24,6 +25,8 @@ _INCISO = re.compile(
     r"(?: ?- ?[^;.\"-]{0,80})? ?- ?ponto facultativo(?P<resto>[^;.\"]{0,60})"
 )
 _A_PARTIR = re.compile(r"a partir das (\d{1,2}) ?(?:h|horas)")
+_ATE = re.compile(r"ate as (\d{1,2}) ?(?:h|horas)")
+HORA_FIM_ALMOCO = 13  # expediente que acaba até aqui esvazia o almoço
 _MUNICIPIO = re.compile(r"(?:situad|sediad|localizad)\w* n[oa] municipio de ([a-z ]+?)(?:,|$| o | os | no | nos )")
 MUNICIPIO_DO_CPA = "cuiaba"
 _MES_GRUPO = {_DECLARACAO.pattern: 3, _INCISO.pattern: 2}  # posição do grupo sem nome do mês em cada padrão
@@ -50,7 +53,7 @@ def extrair_eventos(hits: list[dict], hoje: date) -> dict:
     return {"eventos": eventos, "cancelamentos": cancelamentos}
 
 
-def _cancelamentos_da_alteracao(texto, posicao, publicado_em, hoje):
+def _cancelamentos_da_alteracao(texto: str, posicao: int, publicado_em: date, hoje: date) -> Iterator[dict]:
     """Um inciso *alterado* substitui a data que o 'considerando' diz ter sido divulgada antes."""
     ato = texto[max(0, posicao - 1500):posicao]
     antigo = _DIA_ANTIGO.search(ato)
@@ -67,7 +70,7 @@ def _cancelamentos_da_alteracao(texto, posicao, publicado_em, hoje):
     }
 
 
-def _eventos_do_achado(achado, texto, publicado_em, url, hoje):
+def _eventos_do_achado(achado: re.Match, texto: str, publicado_em: date, url: str, hoje: date) -> Iterator[dict]:
     ano = int(achado["ano"]) if achado["ano"] else None
     mes = achado.group(_MES_GRUPO[achado.re.pattern])
     nivel, detalhe = _classificar_horario(achado["resto"])
@@ -94,6 +97,11 @@ def _vale_para_o_cpa(escopo: str) -> bool:
 
 
 def _classificar_horario(trecho: str) -> tuple[str, str]:
+    ate = _ATE.search(trecho)
+    if ate:
+        hora = int(ate.group(1))
+        nivel = "vermelho" if hora <= HORA_FIM_ALMOCO else "ambar"
+        return nivel, f"Expediente até as {hora}h"
     a_partir = _A_PARTIR.search(trecho)
     if a_partir:
         hora = int(a_partir.group(1))

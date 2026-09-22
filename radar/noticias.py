@@ -3,6 +3,7 @@
 import html
 import json
 import re
+from collections.abc import Iterator
 from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
 
@@ -71,7 +72,7 @@ def extrair_eventos(itens: list[dict], cadastro: dict, agora: datetime) -> list[
     return list(por_chave.values())
 
 
-def _eventos_do_item(item, apelidos, agora):
+def _eventos_do_item(item: dict, apelidos: list[tuple[str, dict]], agora: datetime) -> Iterator[dict]:
     texto = normalizar(f"{item['titulo']} {_sem_html(item['resumo'])}")
     if _DESCARTAR.search(texto) or (_OUTRO_ESTADO.search(texto) and "cuiaba" not in texto):
         return
@@ -102,7 +103,7 @@ def _eventos_do_item(item, apelidos, agora):
         }
 
 
-def _indice_de_apelidos(cadastro):
+def _indice_de_apelidos(cadastro: dict) -> list[tuple[str, dict]]:
     """Apelidos mais longos primeiro; grupo inteiro (calendário) ou órgão específico."""
     pares = [(normalizar(a), {"calendario": codigo}) for codigo, g in cadastro["grupos"].items() for a in g["apelidos"]]
     pares += [(normalizar(a), {"orgaos": [o["id"]]}) for o in cadastro["orgaos"] for a in o["apelidos"]]
@@ -119,7 +120,7 @@ def _data_do_evento(texto: str, publicado: datetime) -> date:
         try:
             return _ajustar_ano(date(referencia.year, int(m.group(2)), int(m.group(1))), referencia)
         except ValueError:
-            pass
+            pass  # "31/02" e afins: segue para os próximos formatos de data
     if "amanha" in texto:
         return referencia + timedelta(days=1)
     if m := _NESTA_DIA.search(texto):

@@ -45,6 +45,12 @@ function faixaDoIndice(indice) {
 }
 
 const MS_POR_HORA = 3_600_000;
+const HORAS_PARA_DESATUALIZADO = 14; // coleta roda a cada 3h; 14h sem dado novo indica falha
+
+/** Verdadeiro quando o carimbo tem mais de 14h (comparação exata, não arredondada). */
+export function estaDesatualizado(carimboIso, agora = new Date()) {
+  return agora.getTime() - new Date(carimboIso).getTime() > HORAS_PARA_DESATUALIZADO * MS_POR_HORA;
+}
 
 /** Horas inteiras desde o carimbo ISO (com fuso) até `agora`. */
 export function horasDesde(carimboIso, agora = new Date()) {
