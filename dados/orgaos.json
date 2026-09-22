@@ -1,0 +1,53 @@
+{
+  "restaurante": { "lat": -15.564987944591339, "lng": -56.07065733668663 },
+  "grupos": {
+    "EST": {
+      "nome": "Executivo estadual (decreto do governador)",
+      "apelidos": ["governo do estado", "governo de mt", "governo de mato grosso", "servidores estaduais", "servidores publicos estaduais", "executivo estadual", "administracao publica estadual", "reparticoes publicas estaduais", "reparticoes publicas do estado"]
+    },
+    "TJMT": { "nome": "Tribunal de Justiça", "apelidos": ["tjmt", "tj-mt", "tribunal de justica", "poder judiciario de mt", "poder judiciario de mato grosso", "judiciario de mt", "judiciario estadual", "judiciario mato-grossense"] },
+    "ALMT": { "nome": "Assembleia Legislativa", "apelidos": ["almt", "al-mt", "assembleia legislativa"] },
+    "TCE": { "nome": "Tribunal de Contas", "apelidos": ["tce-mt", "tce mt", "tribunal de contas do estado", "tribunal de contas de mato grosso"] },
+    "MPMT": { "nome": "Ministério Público Estadual", "apelidos": ["mpmt", "mp-mt", "ministerio publico de mt", "ministerio publico de mato grosso", "ministerio publico do estado", "ministerio publico estadual"] },
+    "DPE": { "nome": "Defensoria Pública", "apelidos": ["defensoria publica", "dpemt", "dpe-mt"] },
+    "TRE": { "nome": "Justiça Eleitoral", "apelidos": ["tre-mt", "tre mt", "tribunal regional eleitoral"] },
+    "TRT": { "nome": "Justiça do Trabalho", "apelidos": ["trt-23", "trt23", "trt da 23", "tribunal regional do trabalho"] },
+    "JF": { "nome": "Justiça Federal", "apelidos": ["justica federal", "sjmt", "trf1"] },
+    "FED": { "nome": "Órgãos federais", "apelidos": [] }
+  },
+  "orgaos": [
+    { "id": "cridac", "sigla": "CRIDAC", "nome": "Centro de Reabilitação Integral Dom Aquino Corrêa (SES)", "lat": -15.564219, "lng": -56.069267, "porte": "M", "calendario": "EST", "apelidos": ["cridac"], "posicao_aproximada": false },
+    { "id": "seciteci", "sigla": "Seciteci · MTI", "nome": "Secretaria de Ciência, Tecnologia e Inovação e MTI", "lat": -15.566112, "lng": -56.072199, "porte": "M", "calendario": "EST", "apelidos": ["seciteci", "mti"], "posicao_aproximada": true },
+    { "id": "lacen", "sigla": "LACEN", "nome": "Laboratório Central de Saúde Pública", "lat": -15.565053, "lng": -56.068224, "porte": "M", "calendario": "EST", "apelidos": ["lacen"], "posicao_aproximada": false },
+    { "id": "mpmt-pgj", "sigla": "MPMT", "nome": "Ministério Público — Procuradoria-Geral de Justiça", "lat": -15.56757, "lng": -56.07113, "porte": "G", "calendario": "MPMT", "apelidos": ["procuradoria-geral de justica"], "posicao_aproximada": false },
+    { "id": "saap", "sigla": "SAAP", "nome": "Secretaria Adjunta de Administração Penitenciária", "lat": -15.567948, "lng": -56.071109, "porte": "P", "calendario": "EST", "apelidos": ["administracao penitenciaria"], "posicao_aproximada": false },
+    { "id": "ses", "sigla": "SES", "nome": "Secretaria de Estado de Saúde", "lat": -15.567631, "lng": -56.072878, "porte": "G", "calendario": "EST", "apelidos": ["ses-mt", "secretaria de estado de saude", "secretaria estadual de saude"], "posicao_aproximada": false },
+    { "id": "sesp", "sigla": "SESP", "nome": "Secretaria de Segurança Pública", "lat": -15.568216, "lng": -56.072417, "porte": "M", "calendario": "EST", "apelidos": ["sesp", "secretaria de seguranca publica", "secretaria de estado de seguranca"], "posicao_aproximada": false },
+    { "id": "iomat", "sigla": "IOMAT", "nome": "Imprensa Oficial", "lat": -15.567624, "lng": -56.073679, "porte": "P", "calendario": "EST", "apelidos": ["iomat", "imprensa oficial"], "posicao_aproximada": false },
+    { "id": "seplag", "sigla": "Seplag", "nome": "Secretaria de Planejamento e Gestão e Escola de Governo", "lat": -15.566595, "lng": -56.074547, "porte": "G", "calendario": "EST", "apelidos": ["seplag", "escola de governo"], "posicao_aproximada": false },
+    { "id": "setasc", "sigla": "Setasc", "nome": "Secretaria de Assistência Social e Cidadania", "lat": -15.567141, "lng": -56.074445, "porte": "M", "calendario": "EST", "apelidos": ["setasc"], "posicao_aproximada": false },
+    { "id": "detran", "sigla": "Detran", "nome": "Departamento Estadual de Trânsito", "lat": -15.562155, "lng": -56.074011, "porte": "G", "calendario": "EST", "apelidos": ["detran-mt", "detran mt", "detran"], "posicao_aproximada": false },
+    { "id": "cge", "sigla": "CGE", "nome": "Controladoria Geral do Estado", "lat": -15.56723, "lng": -56.074635, "porte": "M", "calendario": "EST", "apelidos": ["cge-mt", "controladoria geral do estado"], "posicao_aproximada": false },
+    { "id": "jucemat", "sigla": "Jucemat", "nome": "Junta Comercial", "lat": -15.569624, "lng": -56.069954, "porte": "M", "calendario": "EST", "apelidos": ["jucemat", "junta comercial"], "posicao_aproximada": false },
+    { "id": "tce", "sigla": "TCE", "nome": "Tribunal de Contas do Estado e MP de Contas", "lat": -15.569665, "lng": -56.072306, "porte": "G", "calendario": "TCE", "apelidos": ["ministerio publico de contas"], "posicao_aproximada": false },
+    { "id": "paiaguas", "sigla": "Paiaguás", "nome": "Palácio Paiaguás — Governadoria e Casa Civil", "lat": -15.56766, "lng": -56.075005, "porte": "G", "calendario": "EST", "apelidos": ["palacio paiaguas", "casa civil"], "posicao_aproximada": false },
+    { "id": "tjmt", "sigla": "TJMT", "nome": "Tribunal de Justiça", "lat": -15.569069, "lng": -56.074718, "porte": "G", "calendario": "TJMT", "apelidos": [], "posicao_aproximada": true },
+    { "id": "sema", "sigla": "SEMA", "nome": "Secretaria de Meio Ambiente", "lat": -15.57005, "lng": -56.073964, "porte": "M", "calendario": "EST", "apelidos": ["sema-mt", "sema mt", "secretaria de meio ambiente", "secretaria de estado de meio ambiente"], "posicao_aproximada": false },
+    { "id": "secom", "sigla": "Secom", "nome": "Secretaria de Comunicação", "lat": -15.567985, "lng": -56.076121, "porte": "P", "calendario": "EST", "apelidos": ["secom-mt"], "posicao_aproximada": false },
+    { "id": "defensoria", "sigla": "Defensoria", "nome": "Defensoria Pública do Estado", "lat": -15.570808, "lng": -56.073252, "porte": "M", "calendario": "DPE", "apelidos": [], "posicao_aproximada": false },
+    { "id": "tre", "sigla": "TRE", "nome": "Tribunal Regional Eleitoral", "lat": -15.563623, "lng": -56.063927, "porte": "M", "calendario": "TRE", "apelidos": [], "posicao_aproximada": false },
+    { "id": "forum", "sigla": "Fórum", "nome": "Fórum Cível e Criminal de Cuiabá", "lat": -15.559552, "lng": -56.066371, "porte": "G", "calendario": "TJMT", "apelidos": ["forum de cuiaba", "forum da capital"], "posicao_aproximada": false },
+    { "id": "almt", "sigla": "ALMT", "nome": "Assembleia Legislativa", "lat": -15.568682, "lng": -56.077341, "porte": "G", "calendario": "ALMT", "apelidos": [], "posicao_aproximada": false },
+    { "id": "mpmt-promotorias", "sigla": "Promotorias", "nome": "MPMT — Sede das Promotorias da Capital", "lat": -15.558541, "lng": -56.065596, "porte": "M", "calendario": "MPMT", "apelidos": ["promotorias de justica da capital"], "posicao_aproximada": false },
+    { "id": "sinfra", "sigla": "Sinfra", "nome": "Secretaria de Infraestrutura e Logística", "lat": -15.570445, "lng": -56.077373, "porte": "M", "calendario": "EST", "apelidos": ["sinfra"], "posicao_aproximada": false },
+    { "id": "seduc", "sigla": "Seduc", "nome": "Secretaria de Educação", "lat": -15.571061, "lng": -56.07686, "porte": "G", "calendario": "EST", "apelidos": ["seduc", "secretaria de educacao", "secretaria de estado de educacao"], "posicao_aproximada": false },
+    { "id": "jfmt", "sigla": "JF", "nome": "Justiça Federal — Seção Judiciária de MT", "lat": -15.561667, "lng": -56.0625, "porte": "M", "calendario": "JF", "apelidos": [], "posicao_aproximada": false },
+    { "id": "intermat", "sigla": "Intermat · Empaer", "nome": "Intermat, Empaer e Secretaria de Agricultura Familiar", "lat": -15.5726, "lng": -56.0749, "porte": "M", "calendario": "EST", "apelidos": ["intermat", "empaer", "seaf"], "posicao_aproximada": false },
+    { "id": "sefaz", "sigla": "Sefaz", "nome": "Secretaria de Fazenda", "lat": -15.57363, "lng": -56.073479, "porte": "G", "calendario": "EST", "apelidos": ["sefaz", "secretaria de fazenda"], "posicao_aproximada": false },
+    { "id": "sedec", "sigla": "Sedec · Indea", "nome": "Sedec, Indea e Desenvolve MT", "lat": -15.573211, "lng": -56.075438, "porte": "M", "calendario": "EST", "apelidos": ["sedec", "indea", "desenvolve mt"], "posicao_aproximada": false },
+    { "id": "receita", "sigla": "Receita · CGU", "nome": "Receita Federal e Controladoria-Geral da União", "lat": -15.574507, "lng": -56.07164, "porte": "M", "calendario": "FED", "apelidos": [], "posicao_aproximada": false },
+    { "id": "juizados", "sigla": "Juizados", "nome": "Complexo dos Juizados Especiais", "lat": -15.556064, "lng": -56.066127, "porte": "M", "calendario": "TJMT", "apelidos": ["juizados especiais"], "posicao_aproximada": false },
+    { "id": "trt", "sigla": "TRT-23", "nome": "Tribunal Regional do Trabalho da 23ª Região", "lat": -15.574508, "lng": -56.074132, "porte": "G", "calendario": "TRT", "apelidos": [], "posicao_aproximada": false },
+    { "id": "mtprev", "sigla": "MTPrev", "nome": "Mato Grosso Previdência", "lat": -15.572013, "lng": -56.078255, "porte": "P", "calendario": "EST", "apelidos": ["mtprev"], "posicao_aproximada": false }
+  ]
+}

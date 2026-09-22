@@ -1,0 +1,1394 @@
+[
+ {
+  "data": "2026-10-02",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — véspera da eleição",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-05",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Expediente reduzido após a eleição",
+  "detalhe": "Expediente até 13h",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-05",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "ambar",
+  "titulo": "Expediente só à tarde após a eleição",
+  "detalhe": "Expediente das 14h às 17h",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-12",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado nacional — Nossa Senhora Aparecida",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 6.802/1980",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l6802.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-26",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "ambar",
+  "titulo": "Expediente só à tarde, se houver 2º turno",
+  "detalhe": "Das 14h às 17h, se houver 2º turno",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-10-28",
+  "alvo": {
+   "calendario": "EST"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor Público",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Decreto estadual 1.787/2025 (calendário 2026)",
+   "url": "https://www.iomat.mt.gov.br/apifront/portal/edicoes/publicacoes_ver_conteudo/1788678",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-10-28",
+  "alvo": {
+   "calendario": "FED"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor Público",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Portaria MGI 11.460/2025",
+   "url": "https://www.gov.br/servidor/pt-br",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-10-30",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-30",
+  "alvo": {
+   "calendario": "DPE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Defensoria — Portaria 259/DPG",
+   "url": "https://www.defensoria.mt.def.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-30",
+  "alvo": {
+   "calendario": "MPMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "MPMT — Portaria 759/2026-PGJ",
+   "url": "https://www.mpmt.mp.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-10-30",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-11-02",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado nacional — Finados",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 662/1949 (feriados nacionais)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-11-20",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado nacional — Dia da Consciência Negra",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 14.759/2023",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14759.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-07",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-08",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado municipal em Cuiabá — Nossa Senhora da Conceição",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Decreto municipal 11.585/2025 (Cuiabá)",
+   "url": "https://www.cuiaba.mt.gov.br/noticias/decreto-fixa-datas-de-feriados-pontos-facultativos-e-comemoracoes-em-cuiaba",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-21",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-22",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-23",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "EST"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — véspera de Natal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Decreto estadual 1.787/2025 (calendário 2026)",
+   "url": "https://www.iomat.mt.gov.br/apifront/portal/edicoes/publicacoes_ver_conteudo/1788678",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "FED"
+  },
+  "nivel": "ambar",
+  "titulo": "Ponto facultativo após as 14h — véspera de Natal",
+  "detalhe": "A partir das 14h (não confirmado no DOU)",
+  "fonte": {
+   "nome": "Portaria MGI 11.460/2025",
+   "url": "https://www.gov.br/servidor/pt-br",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-24",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-25",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado nacional — Natal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 662/1949 (feriados nacionais)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-28",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-29",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-30",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "ALMT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Assembleia Legislativa",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "ALMT — Portaria MD 67/2025",
+   "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "EST"
+  },
+  "nivel": "vermelho",
+  "titulo": "Ponto facultativo — véspera de Ano Novo",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Decreto estadual 1.787/2025 (calendário 2026)",
+   "url": "https://www.iomat.mt.gov.br/apifront/portal/edicoes/publicacoes_ver_conteudo/1788678",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "FED"
+  },
+  "nivel": "ambar",
+  "titulo": "Ponto facultativo após as 14h — véspera de Ano Novo",
+  "detalhe": "A partir das 14h (não confirmado no DOU)",
+  "fonte": {
+   "nome": "Portaria MGI 11.460/2025",
+   "url": "https://www.gov.br/servidor/pt-br",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "TCE"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso do TCE-MT",
+  "detalhe": "Recesso até 29/01 (fonte secundária)",
+  "fonte": {
+   "nome": "TCE-MT — recesso (fonte secundária)",
+   "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+   "oficial": false
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "TRE"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso da Justiça Eleitoral",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+   "url": "https://www.tre-mt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2026-12-31",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-01",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-01",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2027-01-01",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-01",
+  "alvo": {
+   "todos": true
+  },
+  "nivel": "vermelho",
+  "titulo": "Feriado nacional — Confraternização Universal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 662/1949 (feriados nacionais)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-04",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-04",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2027-01-04",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-05",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-05",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2027-01-05",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-06",
+  "alvo": {
+   "calendario": "JF"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça Federal",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ },
+ {
+  "data": "2027-01-06",
+  "alvo": {
+   "calendario": "TJMT"
+  },
+  "nivel": "ambar",
+  "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+  "detalhe": "Datas de 2026/27 ainda não confirmadas",
+  "fonte": {
+   "nome": "TJMT — Portaria 1.254/2026",
+   "url": "https://www.tjmt.jus.br/",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": true
+ },
+ {
+  "data": "2027-01-06",
+  "alvo": {
+   "calendario": "TRT"
+  },
+  "nivel": "vermelho",
+  "titulo": "Recesso forense da Justiça do Trabalho",
+  "detalhe": "Dia todo",
+  "fonte": {
+   "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+   "oficial": true
+  },
+  "publicado_em": null,
+  "pode_mudar": false
+ }
+]

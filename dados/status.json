@@ -1,0 +1,427 @@
+{
+ "versao": 1,
+ "gerado_em": "2026-09-22T18:25-04:00",
+ "hoje": "2026-09-22",
+ "dias": [
+  "2026-09-22",
+  "2026-09-23",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-28"
+ ],
+ "eventos": [
+  {
+   "id": "431bb96f20e6",
+   "data": "2026-09-22",
+   "nivel": "ambar",
+   "titulo": "TJMT fora do ar mantém prazos e expediente suspensos pelo segundo dia e não tem data de retorno",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "CONEXÃO MT",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkSGwtdkNETTdvMUJua0pveWFqb0tmZUF1WktjMzZVSGVFbFF6UnVQTHNWYUkyNE90bWxzM2ZWc1BRSDZkbHYxNWFienRKaGdZN2ZaOE4wQTh3czh2R0FHamtfZHhvYmNYYXByWFA2ei1jdDA?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-09-22",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "9e66574a3806",
+   "data": "2026-09-22",
+   "nivel": "ambar",
+   "titulo": "Defensoria Pública de Mato Grosso suspende expediente e acesso a sistemas por medida preventiva",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Notícias Interativa",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXZtSUFMUTgyWkctMVdsV1pLSklHaVlYTDEza1JVelVTOXU2aXBrRXFUMW1RREthQW56WmQyMkZRbzdXQ1ZNaVpkOGNzbHhEa08tSjRtSG1hZFQweU1XbjFvNC1KMU9XSDRkMGZQdkQ3MFM5Y09PWnBVZi1peWFUSWRma1lZWmJ5dzFxTjRFRlFpeTdzQ1RnOUlvZWwzTWZFcmNYN05hUVdUZTEzbXRmd28xeFFTeVpNLWsxSGVlTHVwME1KNURhYVVYY0drZjBBZUNrdWlrLVBKZm9LblhrdGtaOXk2Zw?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-09-22",
+   "pode_mudar": true,
+   "orgaos": [
+    "defensoria"
+   ]
+  },
+  {
+   "id": "325240e740c3",
+   "data": "2026-10-02",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — véspera da eleição",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "6de1f160e727",
+   "data": "2026-10-05",
+   "nivel": "vermelho",
+   "titulo": "Expediente reduzido após a eleição",
+   "detalhe": "Expediente até 13h",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "b48462612c5e",
+   "data": "2026-10-05",
+   "nivel": "ambar",
+   "titulo": "Expediente só à tarde após a eleição",
+   "detalhe": "Expediente das 14h às 17h",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "9f32e407e16b",
+   "data": "2026-10-12",
+   "nivel": "vermelho",
+   "titulo": "Feriado nacional — Nossa Senhora Aparecida",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 6.802/1980",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l6802.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "mpmt-pgj",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "tce",
+    "paiaguas",
+    "tjmt",
+    "sema",
+    "secom",
+    "defensoria",
+    "tre",
+    "forum",
+    "almt",
+    "mpmt-promotorias",
+    "sinfra",
+    "seduc",
+    "jfmt",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "receita",
+    "juizados",
+    "trt",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "4795b240e0cb",
+   "data": "2026-10-26",
+   "nivel": "ambar",
+   "titulo": "Expediente só à tarde, se houver 2º turno",
+   "detalhe": "Das 14h às 17h, se houver 2º turno",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "e9e659032e57",
+   "data": "2026-10-28",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor Público",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Portaria MGI 11.460/2025",
+    "url": "https://www.gov.br/servidor/pt-br",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "receita"
+   ]
+  },
+  {
+   "id": "ef72843accda",
+   "data": "2026-10-28",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor Público",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Decreto estadual 1.787/2025 (calendário 2026)",
+    "url": "https://www.iomat.mt.gov.br/apifront/portal/edicoes/publicacoes_ver_conteudo/1788678",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "5bf5c8481a94",
+   "data": "2026-10-30",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "96a6ffbcc5fb",
+   "data": "2026-10-30",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "MPMT — Portaria 759/2026-PGJ",
+    "url": "https://www.mpmt.mp.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "mpmt-pgj",
+    "mpmt-promotorias"
+   ]
+  },
+  {
+   "id": "aff5f3fff43f",
+   "data": "2026-10-30",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "b3e637dd6527",
+   "data": "2026-10-30",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Defensoria — Portaria 259/DPG",
+    "url": "https://www.defensoria.mt.def.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "defensoria"
+   ]
+  },
+  {
+   "id": "ebe8a7c976a3",
+   "data": "2026-11-02",
+   "nivel": "vermelho",
+   "titulo": "Feriado nacional — Finados",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 662/1949 (feriados nacionais)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "mpmt-pgj",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "tce",
+    "paiaguas",
+    "tjmt",
+    "sema",
+    "secom",
+    "defensoria",
+    "tre",
+    "forum",
+    "almt",
+    "mpmt-promotorias",
+    "sinfra",
+    "seduc",
+    "jfmt",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "receita",
+    "juizados",
+    "trt",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "e85ecf647ebe",
+   "data": "2026-11-20",
+   "nivel": "vermelho",
+   "titulo": "Feriado nacional — Dia da Consciência Negra",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 14.759/2023",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14759.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "mpmt-pgj",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "tce",
+    "paiaguas",
+    "tjmt",
+    "sema",
+    "secom",
+    "defensoria",
+    "tre",
+    "forum",
+    "almt",
+    "mpmt-promotorias",
+    "sinfra",
+    "seduc",
+    "jfmt",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "receita",
+    "juizados",
+    "trt",
+    "mtprev"
+   ]
+  }
+ ],
+ "fontes": [
+  {
+   "nome": "Diário Oficial de MT",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "Google Notícias",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "g1 MT",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "Gazeta Digital",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "Só Notícias",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "TCE-MT",
+   "ok": true,
+   "erro": null
+  },
+  {
+   "nome": "TRT-23",
+   "ok": true,
+   "erro": null
+  }
+ ]
+}
