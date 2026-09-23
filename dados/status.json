@@ -1,51 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-09-22T19:18-04:00",
- "hoje": "2026-09-22",
+ "gerado_em": "2026-09-23T00:44-04:00",
+ "hoje": "2026-09-23",
  "dias": [
-  "2026-09-22",
   "2026-09-23",
   "2026-09-24",
   "2026-09-25",
-  "2026-09-28"
+  "2026-09-28",
+  "2026-09-29"
  ],
  "eventos": [
-  {
-   "id": "431bb96f20e6",
-   "data": "2026-09-22",
-   "nivel": "ambar",
-   "titulo": "TJMT fora do ar mantém prazos e expediente suspensos pelo segundo dia e não tem data de retorno",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "CONEXÃO MT",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkSGwtdkNETTdvMUJua0pveWFqb0tmZUF1WktjMzZVSGVFbFF6UnVQTHNWYUkyNE90bWxzM2ZWc1BRSDZkbHYxNWFienRKaGdZN2ZaOE4wQTh3czh2R0FHamtfZHhvYmNYYXByWFA2ei1jdDA?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-09-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "9e66574a3806",
-   "data": "2026-09-22",
-   "nivel": "ambar",
-   "titulo": "Defensoria Pública de Mato Grosso suspende expediente e acesso a sistemas por medida preventiva",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Notícias Interativa",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXZtSUFMUTgyWkctMVdsV1pLSklHaVlYTDEza1JVelVTOXU2aXBrRXFUMW1RREthQW56WmQyMkZRbzdXQ1ZNaVpkOGNzbHhEa08tSjRtSG1hZFQweU1XbjFvNC1KMU9XSDRkMGZQdkQ3MFM5Y09PWnBVZi1peWFUSWRma1lZWmJ5dzFxTjRFRlFpeTdzQ1RnOUlvZWwzTWZFcmNYN05hUVdUZTEzbXRmd28xeFFTeVpNLWsxSGVlTHVwME1KNURhYVVYY0drZjBBZUNrdWlrLVBKZm9LblhrdGtaOXk2Zw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-09-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "defensoria"
-   ]
-  },
   {
    "id": "325240e740c3",
    "data": "2026-10-02",
