@@ -48,7 +48,13 @@ jobs:
           git config user.email "radar-cpa@users.noreply.github.com"
           git add dados/status.json
           git diff --cached --quiet || git commit -m "chore: atualiza status $(TZ=America/Cuiaba date +%FT%H:%M)"
-          git push
+          # Outra execução (ou um push manual) pode ter avançado a main desde o checkout.
+          # Rebase sobre o remoto; em conflito no status.json vence a coleta desta execução.
+          for tentativa in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -X theirs origin "$GITHUB_REF_NAME"
+          done
+          exit 1
 
       - name: Montar site
         run: |
