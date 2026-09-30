@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-09-30T01:31-04:00",
+ "gerado_em": "2026-09-30T11:54-04:00",
  "hoje": "2026-09-30",
  "dias": [
   "2026-09-30",
@@ -10,6 +10,42 @@
   "2026-10-06"
  ],
  "eventos": [
+  {
+   "id": "663cb2219d68",
+   "data": "2026-09-30",
+   "nivel": "verde",
+   "titulo": "Justiça Comunitária do TJMT atende 400 reeducandos e entrega óculos em mutirão oftalmológico na penitenciária de Sinop",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "CenárioMT",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONWpaM1JhX0tTOGxqQy1tZmNwMHR4N2Y5RkRPWjdsZV8tQnUtS0tjSmFIRzVWQkRtaUZieW9ZVmF0c2xxZlcxX19QTklNMmhOenRCSTNiZnhvNEEyU1VVT0I4MlFpV1RTblQxS0R4bURpSnVtUXY4LXhTNVJBUkEzcERsU2hVOWZBOVN6bUVBNExJdnRSV0VnWHNFX1lwZGc5MVU0N3hGdDVZT1BndVhKa0d1dlJJa2RDdVlUTDQwcTVFWWRFSkFELXFjZVBxc09XN2I2Q3ZFZDlFNzF5b1l1RmMxMXIwNG5tY2Z2LWRHNGpqa2dX?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-09-30",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "1eeced3cc019",
+   "data": "2026-10-02",
+   "nivel": "ambar",
+   "titulo": "ALMT não terá expediente nesta sexta-feira e retomará o atendimento na segunda-feira",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "odocumento.com.br",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2ZJMkI1N1k1ZU9seFVvNXVpYjFQV3BHMGk4UzR3OThFdVNpNG1vOFBLU1NFdnlkcFhfNlR6NEtEWXo1clBxbnVXVF8zeUxhUlB0T3VGNzBRZmVQZVVxVDF2OWFZQTZDN2ZBNXh2RHpJSGtwSmgyUVh2UWswTGxmYnppOEd2ZF9WVmF5ekQ5NUkyZHZwWGpUZHUtb1NQcFdtLTJtdXRCQjhZeHpLMkxCeg?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-09-30",
+   "pode_mudar": true,
+   "orgaos": [
+    "almt"
+   ]
+  },
   {
    "id": "325240e740c3",
    "data": "2026-10-02",
