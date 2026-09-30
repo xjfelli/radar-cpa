@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-09-30T11:54-04:00",
+ "gerado_em": "2026-09-30T18:15-04:00",
  "hoje": "2026-09-30",
  "dias": [
   "2026-09-30",
@@ -30,23 +30,6 @@
    ]
   },
   {
-   "id": "1eeced3cc019",
-   "data": "2026-10-02",
-   "nivel": "ambar",
-   "titulo": "ALMT não terá expediente nesta sexta-feira e retomará o atendimento na segunda-feira",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "odocumento.com.br",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2ZJMkI1N1k1ZU9seFVvNXVpYjFQV3BHMGk4UzR3OThFdVNpNG1vOFBLU1NFdnlkcFhfNlR6NEtEWXo1clBxbnVXVF8zeUxhUlB0T3VGNzBRZmVQZVVxVDF2OWFZQTZDN2ZBNXh2RHpJSGtwSmgyUVh2UWswTGxmYnppOEd2ZF9WVmF5ekQ5NUkyZHZwWGpUZHUtb1NQcFdtLTJtdXRCQjhZeHpLMkxCeg?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-09-30",
-   "pode_mudar": true,
-   "orgaos": [
-    "almt"
-   ]
-  },
-  {
    "id": "325240e740c3",
    "data": "2026-10-02",
    "nivel": "vermelho",
@@ -59,6 +42,23 @@
    },
    "publicado_em": null,
    "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "c7d0956f800a",
+   "data": "2026-10-02",
+   "nivel": "ambar",
+   "titulo": "ALMT não terá expediente nesta sexta",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "FOLHAMAX",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3hmWDE3TmkzY2QwQkFUNDRTc000VGNIcl9UT1hSS05sYTVhSkJLTHV5VTFsenZ5d3gzblBBcDlWNHhvanVadXc4b2drWlBTMHdSa2p1NnFiUXA5eXhTN3pLZ3MxVnAzbG5uZFhMLTRGN2RvVGlMVDlSNldUdlE3TVVYQnBfN1ZjazNjaQ?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-09-30",
+   "pode_mudar": true,
    "orgaos": [
     "almt"
    ]
