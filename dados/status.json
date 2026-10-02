@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-02T11:48-04:00",
+ "gerado_em": "2026-10-02T18:13-04:00",
  "hoje": "2026-10-02",
  "dias": [
   "2026-10-02",
@@ -28,17 +28,17 @@
    ]
   },
   {
-   "id": "c7d0956f800a",
+   "id": "b2ce05368e78",
    "data": "2026-10-02",
    "nivel": "ambar",
-   "titulo": "ALMT não terá expediente nesta sexta",
+   "titulo": "ALMT suspende expediente nesta sexta e retoma atendimento na segunda-feira",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "folhamax.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3hmWDE3TmkzY2QwQkFUNDRTc000VGNIcl9UT1hSS05sYTVhSkJLTHV5VTFsenZ5d3gzblBBcDlWNHhvanVadXc4b2drWlBTMHdSa2p1NnFiUXA5eXhTN3pLZ3MxVnAzbG5uZFhMLTRGN2RvVGlMVDlSNldUdlE3TVVYQnBfN1ZjazNjaQ?oc=5",
+    "nome": "noveen.com.br",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWVnR0lvM0JsMThKMV96M0tQWDhpSF9TX20zWHJhSUZ6RWxkeUY2M2ZTYkxoakg3aTVwSEM1VnZ5S0lEOFJEMlFDNW00ZTZmei1qZmJJaGNRSXZ5MHA0Yk1TalJnQTlvVXpWdnFmVUNQMGVHbWFfR1ZEclZHd0JOWXB4SHUyZmg3LUswN0F6Z1JpaG1TZ1lNMnBodmRoM0g1NV95WDFBNno1VzYtVGxTZ1czMWZaTXNvajJHWW9WaFpGZ3RVNUE?oc=5",
     "oficial": false
    },
-   "publicado_em": "2026-09-30",
+   "publicado_em": "2026-10-02",
    "pode_mudar": true,
    "orgaos": [
     "almt"
