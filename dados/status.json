@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-06T04:58-04:00",
+ "gerado_em": "2026-10-06T11:56-04:00",
  "hoje": "2026-10-06",
  "dias": [
   "2026-10-06",
@@ -10,6 +10,40 @@
   "2026-10-12"
  ],
  "eventos": [
+  {
+   "id": "c82ad0ab7164",
+   "data": "2026-10-06",
+   "nivel": "ambar",
+   "titulo": "Servidores do Detran iniciam greve",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "A Voz dos Municípios",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXQ3Tk5aQmlBMEdmbXJiS1hXb2x0RDV1RmZzVzlwNmQ3WDlyZGZFZzBnTlZrMUNMaDRkT21BeGZnVnhyUDNyaTZTY1ZTWEtwdFN1UnJ4MUl6M1llVlRzSHJlaU03b0F3UTQ5bEpqNE54dE1mUVVtVV9oNHBFX3VneHlwek4?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-06",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
+  {
+   "id": "d547c6783225",
+   "data": "2026-10-07",
+   "nivel": "ambar",
+   "titulo": "Servidores do Detran-RJ iniciam greve por tempo indeterminado nesta quarta-feira",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Ururau Notícias",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnpVdGpyVUY2dVphM1JRLVdHdGVNckgzRU9VTUN6UTl4c3hnM3g1LUN4aGFQMk9pc0JWSko0ZEFGMld3NGVVM2tmb2F5cEdDbzZrRVlNUnlVVkpBTVVERWlRdzZyM0FpTE9KSHE2ZUpTbXpQckhrXzVmNjVqZUJlSHBYVTBXcGltN1RDdk5fVzExejU1dGpsZzlxVzBZcGFLRFROMU55RXV2LWt3WjZMZXNXM19LY1RZTmQ0R2owOXo3YWxTVTBCbU5mRUc?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-06",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "9f32e407e16b",
    "data": "2026-10-12",
