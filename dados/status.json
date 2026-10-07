@@ -1,41 +1,24 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-06T18:39-04:00",
- "hoje": "2026-10-06",
+ "gerado_em": "2026-10-07T01:58-04:00",
+ "hoje": "2026-10-07",
  "dias": [
-  "2026-10-06",
   "2026-10-07",
   "2026-10-08",
   "2026-10-09",
-  "2026-10-12"
+  "2026-10-12",
+  "2026-10-13"
  ],
  "eventos": [
   {
-   "id": "07f2d4d6429b",
-   "data": "2026-10-06",
-   "nivel": "ambar",
-   "titulo": "Servidores do Detran-RJ entram em greve por tempo indeterminado",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Rádio 93 FM",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEFPNmkyMW1raHcxQndmdnpKSWtaRWN5eEVBZWJhYlN6U1dKYWxkNy1QNm9GV29vei1TNWpDZ040N1Rzc1lqbm85dVBwX3I3b3MwbHp2V1hlel8wZTNjVUlOcFpaZkFZNnMtcy11czFsZXN3bFVBSVFDcFg2SzBGLTF1cllwdXpBejY2Y0d2NmlSYjk5V3hfZmotM3AzWUtx?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-06",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
-  {
-   "id": "efbff11e8599",
+   "id": "36ce943bb5b2",
    "data": "2026-10-07",
    "nivel": "ambar",
-   "titulo": "Servidores do Detran-RJ entram em greve por tempo indeterminado nesta quarta-feira",
+   "titulo": "Servidores do Detran-RJ iniciam greve por tempo indeterminado nesta quarta-feira",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "ClickCampos",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDNfVDdaVWNrc2FxQ0FLN0NFeHl3cFZzYjdCbUR6ajhYSVVaNFhiVFZUanhodzhGVGhzX0VjdDk4VGxrNEFrNEZDanUxc3Y3eWhGVklvLUF4TERIcTg0Q1JqSGpLUzRNYXczQ19FRlJQb1UwTUs0MDluSHFZd2ZGYmFTTXk1VTdNdm5LQVJOaHJ2d0ZwcVZTOTAyTW9UNUc5SFpWQ05FbW9rTE1QNFJGUXpjV2I5QQ?oc=5",
+    "nome": "SÃO FRANCISCO 24hs",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTB6c25Qdmxqa05peS03UlJiaHByVEEtaVVYd241UldjWmVSTkxhUkNMYlNjb2cweEdCT0FLTEdiMVN4b3lHTG5oVVB4Q2I2RndfSTBqcncxSTNMMUhtdlloYVd1X292QnBrYzZiUU1RX202TFgyem1LTTdaWXRkUkFfLVNDZ1RUa19RRVQ5ZExKb0EzLW9SQ3I5S1hNQ2JkVUNwQjBfVEVQWXRDZWRERWNCOWc2WGJmcnVLcEJ3?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-06",
