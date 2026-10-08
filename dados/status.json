@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-08T02:02-04:00",
+ "gerado_em": "2026-10-08T12:27-04:00",
  "hoje": "2026-10-08",
  "dias": [
   "2026-10-08",
@@ -10,6 +10,23 @@
   "2026-10-14"
  ],
  "eventos": [
+  {
+   "id": "175557c7d88e",
+   "data": "2026-10-08",
+   "nivel": "ambar",
+   "titulo": "Greve no Detran-RJ começa por tempo indeterminado; veja como fica o atendimento",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "EcoSerrano",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iSGl3S29FUnJ2b1NNb0lISE1feVliOGE5NGJTMjNkMXNXU2NuY0Vka2F5ZEdzTTV0Zk41eDlsTXVCbWZwSFhldElaTWFEUUhoUHZocHU2T1YtZktsREV3X2xFaFA3QQ?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-08",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "9f32e407e16b",
    "data": "2026-10-12",
