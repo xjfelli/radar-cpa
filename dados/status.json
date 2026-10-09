@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-09T12:11-04:00",
+ "gerado_em": "2026-10-09T18:37-04:00",
  "hoje": "2026-10-09",
  "dias": [
   "2026-10-09",
@@ -19,6 +19,23 @@
    "fonte": {
     "nome": "A Tribuna RJ",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0U5clFfdHg5cV9DMEkyWmpUV3B2eHYwaVkwWmZ0MDVqcmlPQ29SblBTUzhXZEg2b3ZPWGw3dXpqaTJhZ0IyRGpYRS1IMmpaUWRXRzV4WWtmaklxeVdnSHBLbGVSc2VmTTMxaGFWMGtXM1ZaZHlBQnJOUkpUeGNjVkV4SkIwVnk2T1B3b1JiOE5VUjVtZHJvRkNDcVpmaldS?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-09",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
+  {
+   "id": "998485a65f16",
+   "data": "2026-10-09",
+   "nivel": "verde",
+   "titulo": "Detran faz mutirão em Italva e elimina fila da identidade",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "O Dia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVVmVm4xM2VERkRTWE1HVU9tSlBrRHNwckVLbENtS3B4U1NrZ2M5R2pBZEN2T0V2OXBMbjZnTHB5ckkxbFY1OXVPVnYydmVlb25UbDAzM29jRC1VZldDYUZqdlp3bUpTS2FaYWV2VWpZMVFaX0dZejRYTDZWQkNMc0JLS2NYRzR1SzFicVZob3VxLWxqaVU3OUNMbDQ5VFZLNlpkMVI4NmlKdWVBaU9TVjd30gGyAUFVX3lxTE0xVWZWbjEzZURGRFNYTUdVT21KUGtEc3ByRUtsQ21LcHhTU2tnYzlHakFkQ3ZPRXY5cExuNmdMcHlySTFsVjU5dU9WdjJ2ZWVvblRsMDMzb2NELVVmV0NhRmp2WndtSlNLYVphZXZValkxUVpfR1l6NFhMNlZCQ0xzQktLY1hHNHVLMWJxVmhvdXEtbGppVTc5Q0xsNDlUVks2WmQxUjg2aUp1ZUFpT1NWN3c?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-09",
