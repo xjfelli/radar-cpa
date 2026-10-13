@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-12T15:02-04:00",
+ "gerado_em": "2026-10-12T22:34-04:00",
  "hoje": "2026-10-12",
  "dias": [
   "2026-10-12",
@@ -10,6 +10,23 @@
   "2026-10-16"
  ],
  "eventos": [
+  {
+   "id": "5c8c16f535cf",
+   "data": "2026-10-12",
+   "nivel": "ambar",
+   "titulo": "Justiça Eleitoral suspende expediente na próxima segunda-feira (12.10)",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Tribunal Regional Eleitoral de Mato Grosso",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1VxSE9Bc2ZjUFR6UFVMOHl1ajB0RU9uRXdqVXZpTTgwWnRlczZzVEtlaE9ja0VLbGV0Q0ZrSlRrNkdJTG9WOGtxVjdLQWQ5UWVyNmhtYVZRM1RWNC14UVZjMFdlMlFKRTZ1MThVTzg0M0hhRVVTaEhVcHZOZmJyTlNOZDFac01hcDl2RTRHU3RncDlhck1fN0tNYmt4cnppSUVPNmc5RzNvNXBmaTJZajBlcXI5MFVmb1pvVWpQdXVVWHE0OGpr?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-09",
+   "pode_mudar": true,
+   "orgaos": [
+    "tre"
+   ]
+  },
   {
    "id": "9f32e407e16b",
    "data": "2026-10-12",
@@ -374,8 +391,8 @@
   },
   {
    "nome": "Google Notícias",
-   "ok": false,
-   "erro": "HTTPError"
+   "ok": true,
+   "erro": null
   },
   {
    "nome": "g1 MT",
