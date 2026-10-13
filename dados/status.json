@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-13T12:56-04:00",
+ "gerado_em": "2026-10-13T18:44-04:00",
  "hoje": "2026-10-13",
  "dias": [
   "2026-10-13",
@@ -10,6 +10,25 @@
   "2026-10-19"
  ],
  "eventos": [
+  {
+   "id": "6d6b17d9ce05",
+   "data": "2026-10-13",
+   "nivel": "verde",
+   "titulo": "TJMT inicia 4º Mutirão de Conciliação Ambiental com 72 processos em negociação",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "CenárioMT",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNOMjl5bm1rdWI1ZVpQaVJ2SnpNU0F4aVBzeFRybVVXbGR2azNjaVA1OEx4dDhVZzRzUVZKU2xTc3RMbTJMQlloRm9MX1NLWjJBTjVrZXFrc1RmZTBqSGs3bVdTZTRILVJsNHZfcjQ5S1c4SjU1N2ZCT0tJb3ZLVERGdFQ0UHB2Mmo5VnJRZ3pGYXQtbWtldUFxOUtJeUl3QzBtZW9wSkYwelRRc05VbXFQQWFVSy1WS3VGN2Z2NEc?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-13",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
   {
    "id": "7abe1c1eabdd",
    "data": "2026-10-13",
