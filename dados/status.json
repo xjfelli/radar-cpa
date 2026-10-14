@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-14T15:22-04:00",
+ "gerado_em": "2026-10-14T19:54-04:00",
  "hoje": "2026-10-14",
  "dias": [
   "2026-10-14",
@@ -10,6 +10,23 @@
   "2026-10-20"
  ],
  "eventos": [
+  {
+   "id": "cdda427b0c55",
+   "data": "2026-10-14",
+   "nivel": "verde",
+   "titulo": "Presidente do TCE-MT anuncia mutirão de saúde e cidadania em Nova Nazaré em dezembro",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "PORTAL MATO GROSSO",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFRGLUlUdzBwbnB2QlpRU2VtaWFINU9BSk5jZkV0Um1FMFJNa2hGVEF0STZocXhZa1dLQzNHcVNzME52VmducGFtNHRlMURtSmdYQVBLMjBfdU1zN0t6S3k5M2NWcTRuRm91S3pQNnB6M2hQX2RER0lCNmdrdU1wUDhHZHpla3FFWnVkV0xLdUZqanZVQU1kcEloaW5SaE1BMkIyTnJDT3VjWDNRQ2E1djc3QS1sR1pj?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-14",
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
   {
    "id": "e7da7170cebb",
    "data": "2026-10-14",
