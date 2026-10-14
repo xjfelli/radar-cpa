@@ -1,51 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-13T18:44-04:00",
- "hoje": "2026-10-13",
+ "gerado_em": "2026-10-14T00:52-04:00",
+ "hoje": "2026-10-14",
  "dias": [
-  "2026-10-13",
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "eventos": [
-  {
-   "id": "6d6b17d9ce05",
-   "data": "2026-10-13",
-   "nivel": "verde",
-   "titulo": "TJMT inicia 4º Mutirão de Conciliação Ambiental com 72 processos em negociação",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "CenárioMT",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNOMjl5bm1rdWI1ZVpQaVJ2SnpNU0F4aVBzeFRybVVXbGR2azNjaVA1OEx4dDhVZzRzUVZKU2xTc3RMbTJMQlloRm9MX1NLWjJBTjVrZXFrc1RmZTBqSGs3bVdTZTRILVJsNHZfcjQ5S1c4SjU1N2ZCT0tJb3ZLVERGdFQ0UHB2Mmo5VnJRZ3pGYXQtbWtldUFxOUtJeUl3QzBtZW9wSkYwelRRc05VbXFQQWFVSy1WS3VGN2Z2NEc?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-13",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "7abe1c1eabdd",
-   "data": "2026-10-13",
-   "nivel": "ambar",
-   "titulo": "Greve no Detran-RJ pode afetar serviços veiculares e exames",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "www.correiodamanha.com.br",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFY3MW5hRFpka3d5Z2ZXdEZpcWFyU25GbVFOTUVXQnAzSUtTTkhLOGtCQXBRaTdzX3h5Z0RmMTc2dVRCR21GYWg5ZFp5bEl2ckI1WG1QdVU4SXh5ZXJMSjdWbDNFUDlPV2N2V1ItVW1WRjRlVFJnTXVsTTdDQktaM2lvdzVVR0JWTFVnT2ktb3lHWjlMaWNpVTA4QXNla3N4MTZqWHVWY3F2WjhFREhYenhLcGZONl9FcmxXb3RNZzhmN0Q1aHlwTXdoVUI0RjVBblE?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-12",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
