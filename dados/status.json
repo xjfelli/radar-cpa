@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-14T10:30-04:00",
+ "gerado_em": "2026-10-14T15:22-04:00",
  "hoje": "2026-10-14",
  "dias": [
   "2026-10-14",
@@ -10,6 +10,23 @@
   "2026-10-20"
  ],
  "eventos": [
+  {
+   "id": "e7da7170cebb",
+   "data": "2026-10-14",
+   "nivel": "ambar",
+   "titulo": "Servidores da Secretaria de Educação do Piauí terão ponto facultativo no Dia do Professor",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "GP1",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcVRQMjJ4VFBNTnBVUGV5bzZhVHh0eFF5TmVKb2JxRlNWZmNLMkUwcUo1UDhQNmwtdXNGbERSdlQ5Tl9NMzUyT09HanJlNlRxR2toeG0tR0Q5VGltb3JGb2FIYzdqR2UzcTFHczFtSmJPZHV6TkdrY0NMSlNhVFFZZDNGTDU1LW5xRnJUNEpIc3k5bE1NMDV2MWpYSVBXbjZ3VkxvcHRhcVJjemNTU0FJeXNUTDlIVGVGRnB1RVlWSkpGRWRrSjVub2NFUkJONFlrX3lyQW5DMnFoYWRmT3VDenhKUdIB6AFBVV95cUxOX3JzY3Uzb1ZhUVEyWWlySFRRWklYVVEza1VYU0Y3LWRrZm93UkV1cl9BV183WmhEOUFDbkhmRWlkbzlPTFFfbGsyNzFScElHbmpvV3V1ZmczWWk4YnNnejZIaUNXY2VDVHdaeEozejRwd0sydklEOG1yWjhkVnNBSmVWU2pPbUFqemxHM0p1WERmbnFXdnZiR20wRXdmTkNQcy1iTmFfQXBRM09qRlZaTHFtYW54WkJHbW9nWEQ1a1ZQRzRVQ29oWno0Y28wUUtMdFZ1eFFMeVJMbXlHUVdqajhqakNuRmpZ?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-14",
+   "pode_mudar": true,
+   "orgaos": [
+    "seduc"
+   ]
+  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
