@@ -1,49 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-14T19:54-04:00",
- "hoje": "2026-10-14",
+ "gerado_em": "2026-10-15T00:37-04:00",
+ "hoje": "2026-10-15",
  "dias": [
-  "2026-10-14",
   "2026-10-15",
   "2026-10-16",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
  "eventos": [
-  {
-   "id": "cdda427b0c55",
-   "data": "2026-10-14",
-   "nivel": "verde",
-   "titulo": "Presidente do TCE-MT anuncia mutirão de saúde e cidadania em Nova Nazaré em dezembro",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "PORTAL MATO GROSSO",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFRGLUlUdzBwbnB2QlpRU2VtaWFINU9BSk5jZkV0Um1FMFJNa2hGVEF0STZocXhZa1dLQzNHcVNzME52VmducGFtNHRlMURtSmdYQVBLMjBfdU1zN0t6S3k5M2NWcTRuRm91S3pQNnB6M2hQX2RER0lCNmdrdU1wUDhHZHpla3FFWnVkV0xLdUZqanZVQU1kcEloaW5SaE1BMkIyTnJDT3VjWDNRQ2E1djc3QS1sR1pj?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-14",
-   "pode_mudar": true,
-   "orgaos": [
-    "tce"
-   ]
-  },
-  {
-   "id": "e7da7170cebb",
-   "data": "2026-10-14",
-   "nivel": "ambar",
-   "titulo": "Servidores da Secretaria de Educação do Piauí terão ponto facultativo no Dia do Professor",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "GP1",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcVRQMjJ4VFBNTnBVUGV5bzZhVHh0eFF5TmVKb2JxRlNWZmNLMkUwcUo1UDhQNmwtdXNGbERSdlQ5Tl9NMzUyT09HanJlNlRxR2toeG0tR0Q5VGltb3JGb2FIYzdqR2UzcTFHczFtSmJPZHV6TkdrY0NMSlNhVFFZZDNGTDU1LW5xRnJUNEpIc3k5bE1NMDV2MWpYSVBXbjZ3VkxvcHRhcVJjemNTU0FJeXNUTDlIVGVGRnB1RVlWSkpGRWRrSjVub2NFUkJONFlrX3lyQW5DMnFoYWRmT3VDenhKUdIB6AFBVV95cUxOX3JzY3Uzb1ZhUVEyWWlySFRRWklYVVEza1VYU0Y3LWRrZm93UkV1cl9BV183WmhEOUFDbkhmRWlkbzlPTFFfbGsyNzFScElHbmpvV3V1ZmczWWk4YnNnejZIaUNXY2VDVHdaeEozejRwd0sydklEOG1yWjhkVnNBSmVWU2pPbUFqemxHM0p1WERmbnFXdnZiR20wRXdmTkNQcy1iTmFfQXBRM09qRlZaTHFtYW54WkJHbW9nWEQ1a1ZQRzRVQ29oWno0Y28wUUtMdFZ1eFFMeVJMbXlHUVdqajhqakNuRmpZ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-14",
-   "pode_mudar": true,
-   "orgaos": [
-    "seduc"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -233,6 +199,25 @@
     "juizados",
     "trt",
     "mtprev"
+   ]
+  },
+  {
+   "id": "37a9615dbad6",
+   "data": "2026-11-14",
+   "nivel": "verde",
+   "titulo": "TJMT prorroga mutirão do Júri em Juína até 14 de novembro",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Fatos de Mato Grosso",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmo4Mi1BaXR2bVhSYzFJdnM5X3hCT3NkT09ERjAwQzRMRVV5Qy1DOFRNMHBFaDhZZHF3NVFYVnJrY1ZEMlMyMVBSNmlIbGo0YlRtTmxLc1F6SERQZVJIblZfTzNSWnV5NUhyVEhnakJCT2U5azk5NU9UWVZyTmgwRDJ2cWRWNVZ3dXJEUjRTYzZKWlhWYVFBM1lvazBRVWRvd09fQ2xHdTNmOW45Zmc?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-10",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   },
   {
