@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-15T10:09-04:00",
+ "gerado_em": "2026-10-15T15:06-04:00",
  "hoje": "2026-10-15",
  "dias": [
   "2026-10-15",
@@ -10,23 +10,6 @@
   "2026-10-21"
  ],
  "eventos": [
-  {
-   "id": "78bf72732ec0",
-   "data": "2026-10-15",
-   "nivel": "verde",
-   "titulo": "Sérgio Ricardo anuncia mutirão de serviços e visita do TCE-MT a Nova Nazaré em dezembro",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "MT Esporte",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXFMLTF6WjZJVkMzZ1Z2RzJ3eFdSbjFOTVBLaEFNZHJJTFBNemRKYXpBWjNZMURTWnVIMjI5WjIxZkN4T2Z1MGZqR1J2ZlVYQTZVV0FyVDZMYkxGOFl1Q0w2MTM3dVBkQ1Bmek92SEVyMUo5d3dYdHJXaDg1OFJQaG5namhUUUY0M2FvZXgtWUd5UGdhMjJRVFVqOHZvOGJRSG0wYm9GX0oxbU9ZdDZ2TFdRa0xGUWFpLTA1UXVn?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-15",
-   "pode_mudar": true,
-   "orgaos": [
-    "tce"
-   ]
-  },
   {
    "id": "a9e49a7fd4d7",
    "data": "2026-10-15",
