@@ -1,32 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-15T19:40-04:00",
- "hoje": "2026-10-15",
+ "gerado_em": "2026-10-16T00:30-04:00",
+ "hoje": "2026-10-16",
  "dias": [
-  "2026-10-15",
   "2026-10-16",
   "2026-10-19",
   "2026-10-20",
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
  "eventos": [
-  {
-   "id": "a9e49a7fd4d7",
-   "data": "2026-10-15",
-   "nivel": "ambar",
-   "titulo": "O Detran entrou em greve em Friburgo. Alguém percebeu?",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Jornal A Voz da Serra",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGhQcEJQVzBSQzdiTU9RZkNKUlBrdzBWb20zWF9LWGJTYWttLXBPMFNmcURDSkxiT0NCZGZOaXJrS3JfUGZnUEZWQ0ZmZVpQZ3dxSmw1ZEZSWkJIZV9TTGxMVzg1MlljRDJ3MWQ1Y3hUMVdHZ2YxbXRvSXg3MkRXVXhBQW4yM3Z5cjVFak5yNDNEZ3E2UDFXb1JMWWVFUXBCd29hZER0dkh0QQ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-15",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
