@@ -1,34 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-16T19:34-04:00",
- "hoje": "2026-10-16",
+ "gerado_em": "2026-10-17T00:24-04:00",
+ "hoje": "2026-10-17",
  "dias": [
-  "2026-10-16",
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
-  "2026-10-22"
+  "2026-10-22",
+  "2026-10-23"
  ],
  "eventos": [
-  {
-   "id": "363986e94cd8",
-   "data": "2026-10-16",
-   "nivel": "ambar",
-   "titulo": "Tribunal de Justiça propõe mudanças na organização judiciária e prevê indenização por plantões no recesso",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Rio Verde News",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0hMRkMzbS1GWEROVTdUMjhiMHNrZWlYa0tkLW00X1JuLXVqLWNzZ0JDSWM0enJXU3VaZnRHN3FFRmRwUnA4RjJrOUdvdFpMV3lLQWx0MXJHSmEyVGFZT28tRC1DQl8zNHRKWGVxdGthSGp3VFhDN1lSYWxwSy1ya0tQSndwYVU3WVh0bXlXV3dqMFh6a2VVVVRlZWVTSmZFb2lYLVVXdWxSZFp0eXVRZnZyQTVsNnpzSkkyWlRlMzF5X2tFLWZrWjlHNlVTZWh4b25DVjFsNDFrakh0UU9YRjFn?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-16",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
