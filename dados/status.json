@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-18T14:04-04:00",
+ "gerado_em": "2026-10-18T16:41-04:00",
  "hoje": "2026-10-18",
  "dias": [
   "2026-10-19",
@@ -199,25 +199,6 @@
     "juizados",
     "trt",
     "mtprev"
-   ]
-  },
-  {
-   "id": "37a9615dbad6",
-   "data": "2026-11-14",
-   "nivel": "verde",
-   "titulo": "TJMT prorroga mutirão do Júri em Juína até 14 de novembro",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Fatos de Mato Grosso",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmo4Mi1BaXR2bVhSYzFJdnM5X3hCT3NkT09ERjAwQzRMRVV5Qy1DOFRNMHBFaDhZZHF3NVFYVnJrY1ZEMlMyMVBSNmlIbGo0YlRtTmxLc1F6SERQZVJIblZfTzNSWnV5NUhyVEhnakJCT2U5azk5NU9UWVZyTmgwRDJ2cWRWNVZ3dXJEUjRTYzZKWlhWYVFBM1lvazBRVWRvd09fQ2xHdTNmOW45Zmc?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-10",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
    ]
   },
   {
