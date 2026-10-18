@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-17T19:07-04:00",
- "hoje": "2026-10-17",
+ "gerado_em": "2026-10-18T00:31-04:00",
+ "hoje": "2026-10-18",
  "dias": [
   "2026-10-19",
   "2026-10-20",
@@ -10,25 +10,6 @@
   "2026-10-23"
  ],
  "eventos": [
-  {
-   "id": "b5c97e8b2ca7",
-   "data": "2026-10-17",
-   "nivel": "verde",
-   "titulo": "Pane nos sistemas faz TJMT estender mutirão para destravar processos e precatórios",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Fatos de Mato Grosso",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTFCNkhNMmpHUkNPYmVLZk00Z2hwbkRRT2g0MXM2eV9iUlNOSFZnQzY5bzR0U0lsRGE3OFpLejhGaU5uMmwwYVVGTVFLem9zVlhJRmlPZEUwa1lDLTViTzFaeVJFX1lGVjBaR0QtMzlMZU9NWV9PM0xoNGs3UU1RYjZsQlBZdEgzZzJQUThHY1pWSDlnVWw2V3dYaHZ0Z0laZ0xwbjlBS1dUdHBhQVRhckU2YnA5WTJVTTRVZy15emNwTmQxWmhnSC1CLXV2Qlk?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-17",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
