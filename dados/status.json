@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-21T10:28-04:00",
+ "gerado_em": "2026-10-21T15:17-04:00",
  "hoje": "2026-10-21",
  "dias": [
   "2026-10-21",
@@ -10,23 +10,6 @@
   "2026-10-27"
  ],
  "eventos": [
-  {
-   "id": "15327e082620",
-   "data": "2026-10-21",
-   "nivel": "ambar",
-   "titulo": "Setor madeireiro de Mato Grosso calcula perdas de quase R$ 60 milhões após falha em sistemas do Ibama",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Só Notícias",
-    "url": "https://www.sonoticias.com.br/economia/setor-madeireiro-de-mato-grosso-calcula-perdas-de-quase-r-60-milhoes-apos-falha-em-sistemas/",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-21",
-   "pode_mudar": true,
-   "orgaos": [
-    "sema"
-   ]
-  },
   {
    "id": "df9e8bacd447",
    "data": "2026-10-21",
