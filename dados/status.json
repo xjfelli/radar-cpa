@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-21T00:44-04:00",
+ "gerado_em": "2026-10-21T10:28-04:00",
  "hoje": "2026-10-21",
  "dias": [
   "2026-10-21",
@@ -10,6 +10,40 @@
   "2026-10-27"
  ],
  "eventos": [
+  {
+   "id": "15327e082620",
+   "data": "2026-10-21",
+   "nivel": "ambar",
+   "titulo": "Setor madeireiro de Mato Grosso calcula perdas de quase R$ 60 milhões após falha em sistemas do Ibama",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Só Notícias",
+    "url": "https://www.sonoticias.com.br/economia/setor-madeireiro-de-mato-grosso-calcula-perdas-de-quase-r-60-milhoes-apos-falha-em-sistemas/",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-21",
+   "pode_mudar": true,
+   "orgaos": [
+    "sema"
+   ]
+  },
+  {
+   "id": "df9e8bacd447",
+   "data": "2026-10-21",
+   "nivel": "ambar",
+   "titulo": "Detran-AM altera atendimento e exames durante ponto facultativo e feriado de Finados",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Portal Manaus Alerta",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzViV1p3VDlsRHM1bTRtcjZWTEtKWFVGQzFEeVM4OUdpQnYxRV9hYnp6YnhrelpzeXdWbnJlWjY1a3l6NzI0QmRwT21NQW5TSFBsQWZYQ0RrMzBVVm5mOXoyeVhUZ1NHd29Dc2paU0VZM1liS3pRSGxnMVBmcy1GVlg2TXVfU2RFdUpYTEZDUGFVdVBxZHJIQTYzWHVqdkZGN1BnM0N5SXpad016aFZpVDlHTlNPUWhCTlZZ?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-21",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
