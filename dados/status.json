@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-22T10:30-04:00",
+ "gerado_em": "2026-10-22T15:13-04:00",
  "hoje": "2026-10-22",
  "dias": [
   "2026-10-22",
@@ -11,68 +11,14 @@
  ],
  "eventos": [
   {
-   "id": "19808eae915a",
+   "id": "b8c3b2be2b3b",
    "data": "2026-10-22",
    "nivel": "ambar",
-   "titulo": "Justiça libera retomada de obras e vendas do Ginco Cidade Jardim em Cuiabá",
+   "titulo": "Greve no Detran-RJ afeta serviços em todo o estado",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/judiciario/justica-libera-retomada-de-obras-e-vendas-do-ginco-cidade-jardim-em-cuiaba/863211",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "8ca7030e8d21",
-   "data": "2026-10-22",
-   "nivel": "ambar",
-   "titulo": "Justiça libera retomada de obras e vendas do Ginco Cidade Jardim em Cuiabá",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/judiciario/justica-libera-retomada-de-obras-e-vendas-do-ginco-cidade-jardim-em-cuiaba/863211",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "sema"
-   ]
-  },
-  {
-   "id": "c6559cecce11",
-   "data": "2026-10-22",
-   "nivel": "ambar",
-   "titulo": "Justiça libera retomada de obras e vendas do Ginco Cidade Jardim em Cuiabá",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/judiciario/justica-libera-retomada-de-obras-e-vendas-do-ginco-cidade-jardim-em-cuiaba/863211",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "mpmt-pgj",
-    "mpmt-promotorias"
-   ]
-  },
-  {
-   "id": "edcde3401f87",
-   "data": "2026-10-22",
-   "nivel": "ambar",
-   "titulo": "Greve no Detran RJ afeta provas da CNH e atendimento a motoristas",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Cidade de Niterói",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXpxcjNRQUFZR3A1Wjg0ZmpPUzZteU9Xb1dudm82RmZTbm1EZ3dCVXVDZ2VwenRqdmdCRGY5WXFZMGM4SG9vODBUeUY5Z2t3UkdWdGtMZ2xZYXN1OVNuQ0JSRF9OdkdrNnBXaFF4U09iUFozS3pOVkVncGlpZmRzVl9NZnIxcjRyQlJ6WDZTSmwtOHdhdm55RmJkdjNiUkhxc003bQ?oc=5",
+    "nome": "G1",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGFrNDFFTmdDc1JOMzlOXzhyYVpGUFphMlB1bUJxbm55ajY3RFlFdUROMkMyVEhVV2JlTFVoZE5PSFJZWjRzRGJpMmlHRjB2N3NzQjJ6dHhzSFcydFpVS2xmZjJtNXFlNE1fSkpZSEJaLThTU0wyT1loRll2REktODZUZDliYWhmLVVEUmtnTEhIVFM5eHFSTUdjRU5XNUNHVDVIS0t3ZTA2MWQ0ZVVEbVFsZHUtMi1TYUJoU2o4Wk96Nmd4ZGZJTjRhdEJpNEl6dWxINjRhMNIB5gFBVV95cUxQdEZNcEpOTDBqUHNIb0RiNzRXZExtNUhsV201TVlzbGRsWjN3Y1EzZ2ljZFU5a3hqS0xPWElmcEY0OVUyYlVvU2sxOEZBZjJTMUJqOUxHcFVlRjdPSnN1QS1XZDZ3ZmlIYlg0cE9qTXd0VUJEZHBWUkNkRTNGbW9kYy1IOW5zZ3lWQUgzZ1VzeEhOcnlPR1F2S2pVZUNZcFNPVmlBNW5MbU5QZ1NRdnJrRTJ6VkRTYlRSSmc5cUhOcUhWMmV3X3ZtU0JWZnhuNkNQOGZhTm5BeTFZbVhURGhSNk85ZnFpQQ?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-22",
@@ -515,8 +461,8 @@
   },
   {
    "nome": "Só Notícias",
-   "ok": false,
-   "erro": "TimeoutError"
+   "ok": true,
+   "erro": null
   },
   {
    "nome": "TCE-MT",
