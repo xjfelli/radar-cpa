@@ -1,32 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-21T19:59-04:00",
- "hoje": "2026-10-21",
+ "gerado_em": "2026-10-22T00:43-04:00",
+ "hoje": "2026-10-22",
  "dias": [
-  "2026-10-21",
   "2026-10-22",
   "2026-10-23",
   "2026-10-26",
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "eventos": [
-  {
-   "id": "df9e8bacd447",
-   "data": "2026-10-21",
-   "nivel": "ambar",
-   "titulo": "Detran-AM altera atendimento e exames durante ponto facultativo e feriado de Finados",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Portal Manaus Alerta",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzViV1p3VDlsRHM1bTRtcjZWTEtKWFVGQzFEeVM4OUdpQnYxRV9hYnp6YnhrelpzeXdWbnJlWjY1a3l6NzI0QmRwT21NQW5TSFBsQWZYQ0RrMzBVVm5mOXoyeVhUZ1NHd29Dc2paU0VZM1liS3pRSGxnMVBmcy1GVlg2TXVfU2RFdUpYTEZDUGFVdVBxZHJIQTYzWHVqdkZGN1BnM0N5SXpad016aFZpVDlHTlNPUWhCTlZZ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-21",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -331,6 +314,110 @@
     "juizados",
     "trt",
     "mtprev"
+   ]
+  },
+  {
+   "id": "132365dfb0f9",
+   "data": "2026-12-21",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "20a5848fbf4a",
+   "data": "2026-12-21",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "2d15a45ff011",
+   "data": "2026-12-21",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "5e86d6066208",
+   "data": "2026-12-21",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "6709b00e07b1",
+   "data": "2026-12-21",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "c2fb1e34ac9e",
+   "data": "2026-12-21",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
    ]
   }
  ],
