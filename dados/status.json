@@ -1,32 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-22T19:59-04:00",
- "hoje": "2026-10-22",
+ "gerado_em": "2026-10-23T00:47-04:00",
+ "hoje": "2026-10-23",
  "dias": [
-  "2026-10-22",
   "2026-10-23",
   "2026-10-26",
   "2026-10-27",
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-29"
  ],
  "eventos": [
-  {
-   "id": "b8c3b2be2b3b",
-   "data": "2026-10-22",
-   "nivel": "ambar",
-   "titulo": "Greve no Detran-RJ afeta serviços em todo o estado",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "G1",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGFrNDFFTmdDc1JOMzlOXzhyYVpGUFphMlB1bUJxbm55ajY3RFlFdUROMkMyVEhVV2JlTFVoZE5PSFJZWjRzRGJpMmlHRjB2N3NzQjJ6dHhzSFcydFpVS2xmZjJtNXFlNE1fSkpZSEJaLThTU0wyT1loRll2REktODZUZDliYWhmLVVEUmtnTEhIVFM5eHFSTUdjRU5XNUNHVDVIS0t3ZTA2MWQ0ZVVEbVFsZHUtMi1TYUJoU2o4Wk96Nmd4ZGZJTjRhdEJpNEl6dWxINjRhMNIB5gFBVV95cUxQdEZNcEpOTDBqUHNIb0RiNzRXZExtNUhsV201TVlzbGRsWjN3Y1EzZ2ljZFU5a3hqS0xPWElmcEY0OVUyYlVvU2sxOEZBZjJTMUJqOUxHcFVlRjdPSnN1QS1XZDZ3ZmlIYlg0cE9qTXd0VUJEZHBWUkNkRTNGbW9kYy1IOW5zZ3lWQUgzZ1VzeEhOcnlPR1F2S2pVZUNZcFNPVmlBNW5MbU5QZ1NRdnJrRTJ6VkRTYlRSSmc5cUhOcUhWMmV3X3ZtU0JWZnhuNkNQOGZhTm5BeTFZbVhURGhSNk85ZnFpQQ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-22",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -435,6 +418,110 @@
    "pode_mudar": false,
    "orgaos": [
     "almt"
+   ]
+  },
+  {
+   "id": "1be7857a5118",
+   "data": "2026-12-22",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "53d02a3b77ef",
+   "data": "2026-12-22",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "5fecfe4b3bc4",
+   "data": "2026-12-22",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "709682869648",
+   "data": "2026-12-22",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "b6fa5c64270d",
+   "data": "2026-12-22",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "c73de0308409",
+   "data": "2026-12-22",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   }
  ],
