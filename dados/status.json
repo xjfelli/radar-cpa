@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-23T00:47-04:00",
+ "gerado_em": "2026-10-23T10:14-04:00",
  "hoje": "2026-10-23",
  "dias": [
   "2026-10-23",
@@ -10,6 +10,23 @@
   "2026-10-29"
  ],
  "eventos": [
+  {
+   "id": "4adf2e8cac4f",
+   "data": "2026-10-23",
+   "nivel": "ambar",
+   "titulo": "Despachante explica os impactos da greve do Detran-RJ e os serviços que continuam funcionando em Teresópolis",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "O Diário de Teresópolis",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbk5fNmlvZms0c05kbTJ1VnZZYkM3TkRYMktBcHdsSUplNlQ0dFdOVlR1OWU4blctM0JMNTBIdFVkYkRRX1BOM1lEUzRyRVB3V1BBZDI1aTd1Y0NMcDBWZTduUlgxa05XMW1wRGlDY2RkU2llNktoMDhLV2dDUUE4TzhwYjlSc2FpUVc3MFJwUWFWTTJOcjRiMDkyS3BEU1lpNUNscWU2eC1VaG9odV9zcHQtQ2lsQjJZNUVYdkJ0c2c4TkpoZ3FMbTlWNG9LQW9nUnZETEVhMktDUWc?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-23",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
