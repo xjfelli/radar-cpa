@@ -1,32 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-23T19:51-04:00",
- "hoje": "2026-10-23",
+ "gerado_em": "2026-10-24T00:35-04:00",
+ "hoje": "2026-10-24",
  "dias": [
-  "2026-10-23",
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
  "eventos": [
-  {
-   "id": "1d16592d1d5e",
-   "data": "2026-10-23",
-   "nivel": "ambar",
-   "titulo": "Detran-RJ vai isentar multas por atraso na transferência de veículos durante greve",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "ncnews.com.br",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ldnpzV0Jicnl4TE1ZSTk4UmNJaGpjbGw1Qm9pc2x4ejE3WmFuMHg1WWNoLXg5cXJ4cUpsdm8wVEozYk5wa3ZQdFNSSklxNGVRVHBtSkJSY3RwakVXQW53NGFacW9OcHhtdWF6czFhQmtOaXZkanNWRmJWVQ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-23",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -42,6 +25,43 @@
    "pode_mudar": true,
    "orgaos": [
     "tre"
+   ]
+  },
+  {
+   "id": "175d0efb1a6b",
+   "data": "2026-10-28",
+   "nivel": "ambar",
+   "titulo": "Governador muda data do ponto facultativo do Dia do Servidor em Mato Grosso",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Só Notícias",
+    "url": "https://www.sonoticias.com.br/politica/governador-muda-data-do-ponto-facultativo-do-dia-do-servidor-em-mato-grosso/",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-23",
+   "pode_mudar": true,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
    ]
   },
   {
@@ -525,6 +545,110 @@
   {
    "id": "c73de0308409",
    "data": "2026-12-22",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "523e514c94d7",
+   "data": "2026-12-23",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "97c0703e69b8",
+   "data": "2026-12-23",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "beca59b041e1",
+   "data": "2026-12-23",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "bf59c01f21ac",
+   "data": "2026-12-23",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "c5a35f9e13ce",
+   "data": "2026-12-23",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "e1faa28fa7c6",
+   "data": "2026-12-23",
    "nivel": "ambar",
    "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
    "detalhe": "Datas de 2026/27 ainda não confirmadas",
