@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-24T00:35-04:00",
+ "gerado_em": "2026-10-24T09:19-04:00",
  "hoje": "2026-10-24",
  "dias": [
   "2026-10-26",
@@ -25,43 +25,6 @@
    "pode_mudar": true,
    "orgaos": [
     "tre"
-   ]
-  },
-  {
-   "id": "175d0efb1a6b",
-   "data": "2026-10-28",
-   "nivel": "ambar",
-   "titulo": "Governador muda data do ponto facultativo do Dia do Servidor em Mato Grosso",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Só Notícias",
-    "url": "https://www.sonoticias.com.br/politica/governador-muda-data-do-ponto-facultativo-do-dia-do-servidor-em-mato-grosso/",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-23",
-   "pode_mudar": true,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "paiaguas",
-    "sema",
-    "secom",
-    "sinfra",
-    "seduc",
-    "intermat",
-    "sefaz",
-    "sedec",
-    "mtprev"
    ]
   },
   {
