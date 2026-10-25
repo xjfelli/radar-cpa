@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-25T09:42-04:00",
+ "gerado_em": "2026-10-25T14:24-04:00",
  "hoje": "2026-10-25",
  "dias": [
   "2026-10-26",
@@ -10,6 +10,23 @@
   "2026-10-30"
  ],
  "eventos": [
+  {
+   "id": "fa5199e2a03a",
+   "data": "2026-10-25",
+   "nivel": "ambar",
+   "titulo": "Detran-RJ volta a funcionar partir desta 2ª feira com fim da greve dos servidores",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Informa Cidade",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUl5eXNEbnBtT0FyMS1YekJ1aDA2OE0tYTF4cXVZVmRpNnNlVWwzWWREXzdXelZ5RG1oa1RDM3pBRVNJTG5JblE2blRXWF9jSmJYdTZEeTdGZmlaRDRlaHB0dXlHU01mN2NiR2dzZE12c2FKSmJFSzFmV2ptV09HbmVEbGVLWE9GbElqMExFSlJYUXFHdk0zdl9sTklKVDRhWldTN2Z2Y05EUnlCZ2k4WjlaQTM0UQ?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-25",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -42,6 +59,23 @@
    "pode_mudar": true,
    "orgaos": [
     "tre"
+   ]
+  },
+  {
+   "id": "89928378ceb6",
+   "data": "2026-10-26",
+   "nivel": "ambar",
+   "titulo": "Detran RJ retoma atendimento nesta segunda após fim da greve",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "OREPORTER.COM",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzlVT1lrM0lVREF4SVlfbW1vdkxoVER6LTEzWkoyc05yd1FXUGtQdlZiN2F2ZkZMYzl0d0RPMFFwbkxFLTZJTWVoTGYwcFd0U09tYlpEMG5sUGM0dnNxVXZJUXZ5OGRILWp2OHF6cUpWVjdUS0RBMk9TU2VDLTJ3TkRNdVJ3c01y?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-25",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
    ]
   },
   {
