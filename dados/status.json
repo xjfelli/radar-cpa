@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-25T14:24-04:00",
+ "gerado_em": "2026-10-25T19:16-04:00",
  "hoje": "2026-10-25",
  "dias": [
   "2026-10-26",
@@ -11,20 +11,37 @@
  ],
  "eventos": [
   {
-   "id": "fa5199e2a03a",
+   "id": "12206b2e3724",
    "data": "2026-10-25",
    "nivel": "ambar",
-   "titulo": "Detran-RJ volta a funcionar partir desta 2ª feira com fim da greve dos servidores",
+   "titulo": "Detran RJ encerra paralisação e libera motoristas de multa",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Informa Cidade",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUl5eXNEbnBtT0FyMS1YekJ1aDA2OE0tYTF4cXVZVmRpNnNlVWwzWWREXzdXelZ5RG1oa1RDM3pBRVNJTG5JblE2blRXWF9jSmJYdTZEeTdGZmlaRDRlaHB0dXlHU01mN2NiR2dzZE12c2FKSmJFSzFmV2ptV09HbmVEbGVLWE9GbElqMExFSlJYUXFHdk0zdl9sTklKVDRhWldTN2Z2Y05EUnlCZ2k4WjlaQTM0UQ?oc=5",
+    "nome": "LSM Notícias",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEZNQjNWdDkxZ2NNQ3lFTzhyRWtrT29KX0xxUEpOeGhmaUd5TElGZFYzd0JGM1ZieUw2dDZnS1JNUUhNbXlUVjdacVRpcnQ1a0swWHdUd0lJX3ZJSC1FeG5qNUFRMEhubTR3bEhadE81SldjcWFGQ0VwYW5Pa21IRUI1dUdXdWlCNTBKUXgtcktWZkFIR2NYVk96NDZEU3kzWnhhbE5JX1NIcURFTDZGZllOM2NuTVJpcmtmSFp0MmdqRW5lN3g5TlB3?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-25",
    "pode_mudar": true,
    "orgaos": [
     "detran"
+   ]
+  },
+  {
+   "id": "ace63427c637",
+   "data": "2026-10-25",
+   "nivel": "ambar",
+   "titulo": "TRE registra 12 ocorrências policiais e 24 urnas substituídas em MT",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Gazeta Digital",
+    "url": "https://www.gazetadigital.com.br/editorias/eleicoes-2026/tre-registra-12-ocorrencias-policiais-e-24-urnas-substituidas-em-mt/863490",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-25",
+   "pode_mudar": true,
+   "orgaos": [
+    "tre"
    ]
   },
   {
@@ -62,14 +79,14 @@
    ]
   },
   {
-   "id": "89928378ceb6",
+   "id": "91cfbabae345",
    "data": "2026-10-26",
    "nivel": "ambar",
-   "titulo": "Detran RJ retoma atendimento nesta segunda após fim da greve",
+   "titulo": "Postos do Detran voltam a funcionar normalmente nesta segunda-feira após fim da greve de servidores",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "OREPORTER.COM",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzlVT1lrM0lVREF4SVlfbW1vdkxoVER6LTEzWkoyc05yd1FXUGtQdlZiN2F2ZkZMYzl0d0RPMFFwbkxFLTZJTWVoTGYwcFd0U09tYlpEMG5sUGM0dnNxVXZJUXZ5OGRILWp2OHF6cUpWVjdUS0RBMk9TU2VDLTJ3TkRNdVJ3c01y?oc=5",
+    "nome": "Tribuna do Sertão",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0M1dlpiblBmQnZSa0pEZy1XcDg2SmJqX0ZjT2pIbHgzLTdqTTZ0OENFU3Z3RkZVcmpMcWQ1SkxXVGxtR2xFTDEyME1EbUswOVhjYUsyU2duVlpaTEpDZkViUGJEcFd5LUQyZ0hNQ0JzUkVYUVhoSHN6NVZ4REFjUXdIdlRrQ080T25HTWtzRjdsekpGbnBDRFdMYTJDNEo4UjZIQ3lGSmFnaEtJdkhjVVkxMktubWJBdjNRVFZxaHRyeE5XaVE0ZmM0ZlhCd0g4bHViME1BM1Q4R0xnWG5UQ29yRUNucGE3SUlpV1paZHN0QVBqcktv?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-25",
