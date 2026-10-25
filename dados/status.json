@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-24T19:12-04:00",
- "hoje": "2026-10-24",
+ "gerado_em": "2026-10-25T00:39-04:00",
+ "hoje": "2026-10-25",
  "dias": [
   "2026-10-26",
   "2026-10-27",
@@ -612,6 +612,164 @@
   {
    "id": "e1faa28fa7c6",
    "data": "2026-12-23",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "02eafbe5462d",
+   "data": "2026-12-24",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "53415255a2f3",
+   "data": "2026-12-24",
+   "nivel": "ambar",
+   "titulo": "Ponto facultativo após as 14h — véspera de Natal",
+   "detalhe": "A partir das 14h (não confirmado no DOU)",
+   "fonte": {
+    "nome": "Portaria MGI 11.460/2025",
+    "url": "https://www.gov.br/servidor/pt-br",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "receita"
+   ]
+  },
+  {
+   "id": "5c9b88c5bf61",
+   "data": "2026-12-24",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "943e5b2ce9d7",
+   "data": "2026-12-24",
+   "nivel": "vermelho",
+   "titulo": "Ponto facultativo — véspera de Natal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Decreto estadual 1.787/2025 (calendário 2026)",
+    "url": "https://www.iomat.mt.gov.br/apifront/portal/edicoes/publicacoes_ver_conteudo/1788678",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "95e58c993309",
+   "data": "2026-12-24",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "a28cd29589eb",
+   "data": "2026-12-24",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "ab08af2c9271",
+   "data": "2026-12-24",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "d549a49078ae",
+   "data": "2026-12-24",
    "nivel": "ambar",
    "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
    "detalhe": "Datas de 2026/27 ainda não confirmadas",
