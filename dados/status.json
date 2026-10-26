@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-26T00:45-04:00",
+ "gerado_em": "2026-10-26T12:07-04:00",
  "hoje": "2026-10-26",
  "dias": [
   "2026-10-26",
@@ -10,6 +10,23 @@
   "2026-10-30"
  ],
  "eventos": [
+  {
+   "id": "3ee5178077b7",
+   "data": "2026-10-26",
+   "nivel": "ambar",
+   "titulo": "Ponto facultativo altera atendimentos no Detran-AM na sexta; saiba mais",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "D24AM",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJBVk5saDdic1dneGRnN2xEOHpBS2NaNlo2Y2d4NkkyX1dxZFJyNUNPMEljTDRNeHhMT2l4TkNfb0YyMEQ5ZlFrUWlWV0JfVDFHVGlwWURIR3U3OWRpVHpELTlwcHl3OVp1Qzk0amZwVEZab3FMTFlYMUhyZURrNzJHLVgtb0hjcjdQVFU2WnRhVEFvT2dvaE9JNGE5TFE?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-26",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -45,20 +62,40 @@
    ]
   },
   {
-   "id": "91cfbabae345",
+   "id": "f5c4f69871f6",
    "data": "2026-10-26",
    "nivel": "ambar",
-   "titulo": "Postos do Detran voltam a funcionar normalmente nesta segunda-feira após fim da greve de servidores",
+   "titulo": "Cuiabá e Governo de MT transferem ponto facultativo para sexta-feira",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Tribuna do Sertão",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0M1dlpiblBmQnZSa0pEZy1XcDg2SmJqX0ZjT2pIbHgzLTdqTTZ0OENFU3Z3RkZVcmpMcWQ1SkxXVGxtR2xFTDEyME1EbUswOVhjYUsyU2duVlpaTEpDZkViUGJEcFd5LUQyZ0hNQ0JzUkVYUVhoSHN6NVZ4REFjUXdIdlRrQ080T25HTWtzRjdsekpGbnBDRFdMYTJDNEo4UjZIQ3lGSmFnaEtJdkhjVVkxMktubWJBdjNRVFZxaHRyeE5XaVE0ZmM0ZlhCd0g4bHViME1BM1Q4R0xnWG5UQ29yRUNucGE3SUlpV1paZHN0QVBqcktv?oc=5",
+    "nome": "Ponto na Curva",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDZmX1FqSnpFTzJUUnRMWXRSV3JDQXlOQ1FfeVVUSm5CNFRSRVRUb1c4QlJjX2RJa19oRVpXLWliWVVXM1JHcHdrVElscWprc3oxOHd5TWVtcjBKUzNXdFJIZE5fWUI3RjE1dHJ6Wld0TUllc2VCam9IZm1WTDc5WU1Qc1d6S0VYQWQta1ZfdmNDMzZQLWtWLVhnQ1l2cVpMcGE1TGhwNG5od3dmeExDd3dvOU8zRkk?oc=5",
     "oficial": false
    },
-   "publicado_em": "2026-10-25",
+   "publicado_em": "2026-10-26",
    "pode_mudar": true,
    "orgaos": [
-    "detran"
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
    ]
   },
   {
