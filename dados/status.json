@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-25T19:16-04:00",
- "hoje": "2026-10-25",
+ "gerado_em": "2026-10-26T00:45-04:00",
+ "hoje": "2026-10-26",
  "dias": [
   "2026-10-26",
   "2026-10-27",
@@ -10,40 +10,6 @@
   "2026-10-30"
  ],
  "eventos": [
-  {
-   "id": "12206b2e3724",
-   "data": "2026-10-25",
-   "nivel": "ambar",
-   "titulo": "Detran RJ encerra paralisação e libera motoristas de multa",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "LSM Notícias",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEZNQjNWdDkxZ2NNQ3lFTzhyRWtrT29KX0xxUEpOeGhmaUd5TElGZFYzd0JGM1ZieUw2dDZnS1JNUUhNbXlUVjdacVRpcnQ1a0swWHdUd0lJX3ZJSC1FeG5qNUFRMEhubTR3bEhadE81SldjcWFGQ0VwYW5Pa21IRUI1dUdXdWlCNTBKUXgtcktWZkFIR2NYVk96NDZEU3kzWnhhbE5JX1NIcURFTDZGZllOM2NuTVJpcmtmSFp0MmdqRW5lN3g5TlB3?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-25",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
-  {
-   "id": "ace63427c637",
-   "data": "2026-10-25",
-   "nivel": "ambar",
-   "titulo": "TRE registra 12 ocorrências policiais e 24 urnas substituídas em MT",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/eleicoes-2026/tre-registra-12-ocorrencias-policiais-e-24-urnas-substituidas-em-mt/863490",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-25",
-   "pode_mudar": true,
-   "orgaos": [
-    "tre"
-   ]
-  },
   {
    "id": "4795b240e0cb",
    "data": "2026-10-26",
@@ -852,6 +818,159 @@
     "tjmt",
     "forum",
     "juizados"
+   ]
+  },
+  {
+   "id": "14be23007e87",
+   "data": "2026-12-25",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "396840ab5c2a",
+   "data": "2026-12-25",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "8f4b448ab761",
+   "data": "2026-12-25",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "994d148dc7e3",
+   "data": "2026-12-25",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "a62e88d08bee",
+   "data": "2026-12-25",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "c1becfdee2d7",
+   "data": "2026-12-25",
+   "nivel": "vermelho",
+   "titulo": "Feriado nacional — Natal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 662/1949 (feriados nacionais)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "mpmt-pgj",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "tce",
+    "paiaguas",
+    "tjmt",
+    "sema",
+    "secom",
+    "defensoria",
+    "tre",
+    "forum",
+    "almt",
+    "mpmt-promotorias",
+    "sinfra",
+    "seduc",
+    "jfmt",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "receita",
+    "juizados",
+    "trt",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "d39f5745d823",
+   "data": "2026-12-25",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
    ]
   }
  ],
