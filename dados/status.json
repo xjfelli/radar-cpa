@@ -1,101 +1,30 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-26T18:39-04:00",
- "hoje": "2026-10-26",
+ "gerado_em": "2026-10-27T01:02-04:00",
+ "hoje": "2026-10-27",
  "dias": [
-  "2026-10-26",
   "2026-10-27",
   "2026-10-28",
   "2026-10-29",
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-02"
  ],
  "eventos": [
   {
-   "id": "4795b240e0cb",
-   "data": "2026-10-26",
+   "id": "4d2606a2cb2e",
+   "data": "2026-10-27",
    "nivel": "ambar",
-   "titulo": "Expediente só à tarde, se houver 2º turno",
-   "detalhe": "Das 14h às 17h, se houver 2º turno",
-   "fonte": {
-    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
-    "url": "https://www.tre-mt.jus.br/",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": true,
-   "orgaos": [
-    "tre"
-   ]
-  },
-  {
-   "id": "b7ba065373e3",
-   "data": "2026-10-26",
-   "nivel": "ambar",
-   "titulo": "Detran RJ volta a funcionar normalmente após o fim da greve dos servidores - Entre-Rios Jornal",
+   "titulo": "Ponto facultativo e feriado alteram calendário de provas do Detran-AM",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Entre-Rios Jornal",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFYwMFc4RG80dkMxT0Y5RXRwOEJnZkZ1ZF8tVWxOaUttYlprd1M3cEhqRnZsNlNGOWNla2pkSVlDVUs5dDFfZHRvT3VtVHZZSEwyalpEcjZNNDdGRGptSUtuR1N5Y1BSNnZYQU1mS3dwWElrT0kwaElZVi03QTRWamJuMlYwYXBpWHc?oc=5",
+    "nome": "Portal Você Online",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3JvVnFHX1MyYWFPaE9HUzlpbGswUnNmRGgwTlZXaExjNE1iZkZoeGRkWGFaeTl2Y2dQM2xpRGg4dE1yYnF3M0wtS280YmJZWkYxbFFVMFJBTVBBZHJtSUF0cEpmdlpxczR5TFlTVGhFRjJmMWVpWFZiS0RVdkhHZS1ybmtRWWRINmhza1Q4RWtSb1VITWtiUQ?oc=5",
     "oficial": false
    },
-   "publicado_em": "2026-10-26",
+   "publicado_em": "2026-10-27",
    "pode_mudar": true,
    "orgaos": [
     "detran"
-   ]
-  },
-  {
-   "id": "d04757301c5a",
-   "data": "2026-10-26",
-   "nivel": "ambar",
-   "titulo": "TRE-MT declara ponto facultativo e suspende expediente",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ponto na Curva",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenVHc093bEtKNlQ2bU1KSzdiWUhhZ1B6NDg2WFhnajhSajR2d1FtYnNHTXZEYjRXeERnS2RKOGMyM3RFQzhXT0dnSEsxcm5iUTJpWUlJQXdEQ0FmZDFGdWNzX0RDbHIwcjRUMC0wUXZXejlvNlZTSlYwRExPTC1ZN1BKLUhQX1FyRk1MQ1prWVh2QVUwT3pUdHR0R09jaEpiREx4UnZOSXd5Zw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-26",
-   "pode_mudar": true,
-   "orgaos": [
-    "tre"
-   ]
-  },
-  {
-   "id": "f5c4f69871f6",
-   "data": "2026-10-26",
-   "nivel": "ambar",
-   "titulo": "Cuiabá e Governo de MT transferem ponto facultativo para sexta-feira",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ponto na Curva",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDZmX1FqSnpFTzJUUnRMWXRSV3JDQXlOQ1FfeVVUSm5CNFRSRVRUb1c4QlJjX2RJa19oRVpXLWliWVVXM1JHcHdrVElscWprc3oxOHd5TWVtcjBKUzNXdFJIZE5fWUI3RjE1dHJ6Wld0TUllc2VCam9IZm1WTDc5WU1Qc1d6S0VYQWQta1ZfdmNDMzZQLWtWLVhnQ1l2cVpMcGE1TGhwNG5od3dmeExDd3dvOU8zRkk?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-26",
-   "pode_mudar": true,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "paiaguas",
-    "sema",
-    "secom",
-    "sinfra",
-    "seduc",
-    "intermat",
-    "sefaz",
-    "sedec",
-    "mtprev"
    ]
   },
   {
