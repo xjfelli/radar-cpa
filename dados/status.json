@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-27T11:23-04:00",
+ "gerado_em": "2026-10-27T18:13-04:00",
  "hoje": "2026-10-27",
  "dias": [
   "2026-10-27",
@@ -25,6 +25,43 @@
    "pode_mudar": true,
    "orgaos": [
     "detran"
+   ]
+  },
+  {
+   "id": "88f19f072d7e",
+   "data": "2026-10-28",
+   "nivel": "ambar",
+   "titulo": "MT Hemocentro reforça chamado para doações antes do feriado prolongado",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Gazeta Digital",
+    "url": "https://www.gazetadigital.com.br/colunas-e-opiniao/fogo-cruzado/mt-hemocentro-reforca-chamado-para-doacoes-antes-do-feriado-prolongado/863707",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-27",
+   "pode_mudar": true,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
    ]
   },
   {
@@ -79,6 +116,23 @@
     "sefaz",
     "sedec",
     "mtprev"
+   ]
+  },
+  {
+   "id": "bd3392ed84cd",
+   "data": "2026-10-29",
+   "nivel": "ambar",
+   "titulo": "Quem comprou carro usado no Rio e estourou os 30 dias para transferir durante a greve do Detran-RJ não vai pagar a multa de R$ 195,23, mas os servidores voltam a votar na quinta (29)",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "CPG Click Petróleo e Gás",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3dYRl9WYzlvck45RnUzOE9qLU11SnQtOHdDdXV4RzFYQ0k3cG40SGwxTGhIaG1kbXI2WkNScHJsWWthZDF1emFvckxBWFg4WGN6dm9LdG9JRWVzemkyWll6Ukg4TTBQNmFpTmtUem1QT1Ywb09Bc0ZZUkFiNktvTmVyaFBjdnlNYmo3czJXYmlKRGdONVJn?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-27",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
    ]
   },
   {
