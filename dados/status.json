@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-28T12:01-04:00",
+ "gerado_em": "2026-10-28T18:34-04:00",
  "hoje": "2026-10-28",
  "dias": [
   "2026-10-28",
@@ -99,23 +99,6 @@
    ]
   },
   {
-   "id": "15c591ff3936",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "Veja o que abre e fecha durante ponto facultativo e feriado em MT",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/cidades/veja-o-que-abre-e-fecha-durante-ponto-facultativo-e-feriado-em-mt/863815",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-28",
-   "pode_mudar": true,
-   "orgaos": [
-    "ses"
-   ]
-  },
-  {
    "id": "5bf5c8481a94",
    "data": "2026-10-30",
    "nivel": "vermelho",
@@ -130,60 +113,6 @@
    "pode_mudar": false,
    "orgaos": [
     "almt"
-   ]
-  },
-  {
-   "id": "6b14ee82ca21",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "Veja o que abre e fecha durante ponto facultativo e feriado em MT",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/cidades/veja-o-que-abre-e-fecha-durante-ponto-facultativo-e-feriado-em-mt/863815",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-28",
-   "pode_mudar": true,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "paiaguas",
-    "sema",
-    "secom",
-    "sinfra",
-    "seduc",
-    "intermat",
-    "sefaz",
-    "sedec",
-    "mtprev"
-   ]
-  },
-  {
-   "id": "935849ed452a",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "Veja o que abre e fecha durante ponto facultativo e feriado em MT",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/cidades/veja-o-que-abre-e-fecha-durante-ponto-facultativo-e-feriado-em-mt/863815",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-28",
-   "pode_mudar": true,
-   "orgaos": [
-    "lacen"
    ]
   },
   {
@@ -238,23 +167,6 @@
    "pode_mudar": false,
    "orgaos": [
     "defensoria"
-   ]
-  },
-  {
-   "id": "fccce38c90ff",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "Veja o que abre e fecha durante ponto facultativo e feriado em MT",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/editorias/cidades/veja-o-que-abre-e-fecha-durante-ponto-facultativo-e-feriado-em-mt/863815",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-28",
-   "pode_mudar": true,
-   "orgaos": [
-    "cridac"
    ]
   },
   {
