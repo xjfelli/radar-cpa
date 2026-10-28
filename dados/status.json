@@ -1,32 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-27T18:13-04:00",
- "hoje": "2026-10-27",
+ "gerado_em": "2026-10-28T01:40-04:00",
+ "hoje": "2026-10-28",
  "dias": [
-  "2026-10-27",
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "eventos": [
-  {
-   "id": "374194a0f84b",
-   "data": "2026-10-27",
-   "nivel": "ambar",
-   "titulo": "Postos do Detran RJ voltam a funcionar normalmente após suspensão de greve dos servidores",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Tribuna de Petrópolis",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTRVdTl3V21Ja1Nfa01MNDNDQnhqb2Zac1VWdkQzaDBIRFJqTk1fbWFUcU1WWlJBSnhzVnE3V3ZCZzVzUExaejdIcUN0MUE1WUNpemZHR0ZuZ0l0ZFFtRTRwZnJ5NkpLb01sTXJybEZtN2tvVUtMaG5HLWR1aV9uZnBYOFdJRnJJRFFVZVJqRnhkWjFGTmJNOEppeE9VTW45dFB5RlRROXhUYUYwTnlwOGs5QXFFRUx4Vm1IVmQtWDlNWHRHakttWk8xdElHd3c?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-27",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
-   ]
-  },
   {
    "id": "88f19f072d7e",
    "data": "2026-10-28",
