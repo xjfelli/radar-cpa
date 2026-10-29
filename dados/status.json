@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-29T12:07-04:00",
+ "gerado_em": "2026-10-29T18:44-04:00",
  "hoje": "2026-10-29",
  "dias": [
   "2026-10-29",
@@ -10,6 +10,23 @@
   "2026-11-04"
  ],
  "eventos": [
+  {
+   "id": "601ae6138731",
+   "data": "2026-10-29",
+   "nivel": "ambar",
+   "titulo": "TCE-MT suspende expediente e sessão plenária após decisão do STJ",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Infoverus",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVhkOEpsdlBXV3VfTVpEZEZJZlQtVjZyUk1XX3c2VWZ3ZTdqZEZjQktXUDRnTXlLMWI2NUNoOG9LVXFxeVFmNVFFOF9aS1ZaZW1HeG5qTXFrakVZUUhfM3pqMC1sbDlsTHp4RmpfVUZNUVpXdzdSMV9zMlVBZ0VONGRueWkxTU5kLWJ1UWNFUHc5aVFqanRBWFA1Ti1IQWJPU3N2Rlk1N2F0b3YzNjJj?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-29",
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
   {
    "id": "bd3392ed84cd",
    "data": "2026-10-29",
@@ -96,6 +113,24 @@
    "pode_mudar": false,
    "orgaos": [
     "defensoria"
+   ]
+  },
+  {
+   "id": "bc1f5153f628",
+   "data": "2026-10-30",
+   "nivel": "ambar",
+   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "novidades mt",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTc4RWkxdzdiNEFHdzVvblc5Y3hOWTZQaFhSazQtcWhSOTM2QTYtUjFweVk3d0tqaWlwV2JPNW9hbEJIY09Kazk1QWhnazBObkxkVnpxQmhkMGZiY19MU1VGS2tHV2FpMThkbmE0Z2NJaDkta3E0cDhVaFBmMVRsZUVaRkdXSndTTXUxemJNMkdSTlkwMm56X2JTWjU4X1ozaE93?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-29",
+   "pode_mudar": true,
+   "orgaos": [
+    "mpmt-pgj",
+    "mpmt-promotorias"
    ]
   },
   {
