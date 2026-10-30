@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-30T11:56-04:00",
+ "gerado_em": "2026-10-30T18:19-04:00",
  "hoje": "2026-10-30",
  "dias": [
   "2026-10-30",
@@ -10,6 +10,24 @@
   "2026-11-05"
  ],
  "eventos": [
+  {
+   "id": "3ab6db6fff70",
+   "data": "2026-10-30",
+   "nivel": "ambar",
+   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "AtualMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWdZdm9WT3pDSGFYQkdEeTJobmZvXzdnc1Fjamwwd2ZrMFlrQjJ1ZFRYdFRycGNhTDZtMXJrY0xjRkU4NUZtcm9OekxqWkdob212dUNFclRWSmczdmc1UkVRQTJ2dEFGTjVNeWFxR1MxR1ZRbnQteERvendGWU1vQjR1c1JlOUVocDIxdUViVGVzUnFqb3BWdzdWUWc?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-29",
+   "pode_mudar": true,
+   "orgaos": [
+    "mpmt-pgj",
+    "mpmt-promotorias"
+   ]
+  },
   {
    "id": "5bf5c8481a94",
    "data": "2026-10-30",
@@ -62,24 +80,6 @@
     "tjmt",
     "forum",
     "juizados"
-   ]
-  },
-  {
-   "id": "b2a0ce02f4e7",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ministério Público do Estado de Mato Grosso",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTgzWFlEd3plSG5wX0ZoM1JKSjhuVXBIZEtDUVZONmJLbWdTeF94QnoyRmpVa3o1VllER0c3cXJZc1Q1V050OVpCQklIYmtVempzRFhlRUZaci1lckxaVFN0MDFOZ2xJbGpITDFWd256U0V4VC1qSlNGY2MzNVM2M0VVaGtudTkyOE4wajBaa3lhZUt3Q2VjamRDVWd1YXdkdzlvMjRB?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-29",
-   "pode_mudar": true,
-   "orgaos": [
-    "mpmt-pgj",
-    "mpmt-promotorias"
    ]
   },
   {
