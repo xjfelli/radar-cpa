@@ -1,47 +1,31 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-29T18:44-04:00",
- "hoje": "2026-10-29",
+ "gerado_em": "2026-10-30T01:46-04:00",
+ "hoje": "2026-10-30",
  "dias": [
-  "2026-10-29",
   "2026-10-30",
   "2026-11-02",
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "eventos": [
   {
-   "id": "601ae6138731",
-   "data": "2026-10-29",
+   "id": "3ab6db6fff70",
+   "data": "2026-10-30",
    "nivel": "ambar",
-   "titulo": "TCE-MT suspende expediente e sessão plenária após decisão do STJ",
+   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Infoverus",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVhkOEpsdlBXV3VfTVpEZEZJZlQtVjZyUk1XX3c2VWZ3ZTdqZEZjQktXUDRnTXlLMWI2NUNoOG9LVXFxeVFmNVFFOF9aS1ZaZW1HeG5qTXFrakVZUUhfM3pqMC1sbDlsTHp4RmpfVUZNUVpXdzdSMV9zMlVBZ0VONGRueWkxTU5kLWJ1UWNFUHc5aVFqanRBWFA1Ti1IQWJPU3N2Rlk1N2F0b3YzNjJj?oc=5",
+    "nome": "AtualMT",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWdZdm9WT3pDSGFYQkdEeTJobmZvXzdnc1Fjamwwd2ZrMFlrQjJ1ZFRYdFRycGNhTDZtMXJrY0xjRkU4NUZtcm9OekxqWkdob212dUNFclRWSmczdmc1UkVRQTJ2dEFGTjVNeWFxR1MxR1ZRbnQteERvendGWU1vQjR1c1JlOUVocDIxdUViVGVzUnFqb3BWdzdWUWc?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-10-29",
    "pode_mudar": true,
    "orgaos": [
-    "tce"
-   ]
-  },
-  {
-   "id": "bd3392ed84cd",
-   "data": "2026-10-29",
-   "nivel": "ambar",
-   "titulo": "Quem comprou carro usado no Rio e estourou os 30 dias para transferir durante a greve do Detran-RJ não vai pagar a multa de R$ 195,23, mas os servidores voltam a votar na quinta (29)",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "CPG Click Petróleo e Gás",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3dYRl9WYzlvck45RnUzOE9qLU11SnQtOHdDdXV4RzFYQ0k3cG40SGwxTGhIaG1kbXI2WkNScHJsWWthZDF1emFvckxBWFg4WGN6dm9LdG9JRWVzemkyWll6Ukg4TTBQNmFpTmtUem1QT1Ywb09Bc0ZZUkFiNktvTmVyaFBjdnlNYmo3czJXYmlKRGdONVJn?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-27",
-   "pode_mudar": true,
-   "orgaos": [
-    "detran"
+    "mpmt-pgj",
+    "mpmt-promotorias"
    ]
   },
   {
@@ -116,24 +100,6 @@
    ]
   },
   {
-   "id": "bc1f5153f628",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "novidades mt",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTc4RWkxdzdiNEFHdzVvblc5Y3hOWTZQaFhSazQtcWhSOTM2QTYtUjFweVk3d0tqaWlwV2JPNW9hbEJIY09Kazk1QWhnazBObkxkVnpxQmhkMGZiY19MU1VGS2tHV2FpMThkbmE0Z2NJaDkta3E0cDhVaFBmMVRsZUVaRkdXSndTTXUxemJNMkdSTlkwMm56X2JTWjU4X1ozaE93?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-29",
-   "pode_mudar": true,
-   "orgaos": [
-    "mpmt-pgj",
-    "mpmt-promotorias"
-   ]
-  },
-  {
    "id": "ebe8a7c976a3",
    "data": "2026-11-02",
    "nivel": "vermelho",
@@ -180,6 +146,23 @@
     "juizados",
     "trt",
     "mtprev"
+   ]
+  },
+  {
+   "id": "73d8d45288b3",
+   "data": "2026-11-03",
+   "nivel": "ambar",
+   "titulo": "TCE-MT suspende expediente e sessão de 3 de novembro após prisão de Sérgio Ricardo",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Jornal Oeste",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUmVBdEtXQV90WHhWRV96dDNBakh3Z2dMdm1tR3c1MW1aeEF5WkFTQlFsem4wMm0yMzNXTmYxNmNZazV4ZjVMQmF6UjBUMG42Mm9RV1gzXzhXUDNvbDUyTUxmSUhVZUIzbGlnWnBPUThDVEV1eVVWYlllaEtXMll2cTZHZnF4N1VicHFpem8tVVI2SlhrYWJJSldRdXpsa0VrYVNmMnpGdi16MGYwYXlUaWM2QlJ6NW9oaktYR3Z2clBzTU1vem55WllyOXJGNFI3NGhoTThyeV9VNXl0M2JjcGhfUDE?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-10-29",
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
    ]
   },
   {
@@ -1022,6 +1005,110 @@
    "pode_mudar": false,
    "orgaos": [
     "tre"
+   ]
+  },
+  {
+   "id": "17b4a623e4ca",
+   "data": "2026-12-29",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "34b4a30bb3a0",
+   "data": "2026-12-29",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "771c8bdb74e7",
+   "data": "2026-12-29",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "815ecaf4091c",
+   "data": "2026-12-29",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "8db62d400a30",
+   "data": "2026-12-29",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "ba22260a95b3",
+   "data": "2026-12-29",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
    ]
   }
  ],
