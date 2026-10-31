@@ -1,123 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-30T18:19-04:00",
- "hoje": "2026-10-30",
+ "gerado_em": "2026-10-31T01:39-04:00",
+ "hoje": "2026-10-31",
  "dias": [
-  "2026-10-30",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "eventos": [
-  {
-   "id": "3ab6db6fff70",
-   "data": "2026-10-30",
-   "nivel": "ambar",
-   "titulo": "MPMT suspende expediente nesta sexta-feira (30) e retorna dia 3",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "AtualMT",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWdZdm9WT3pDSGFYQkdEeTJobmZvXzdnc1Fjamwwd2ZrMFlrQjJ1ZFRYdFRycGNhTDZtMXJrY0xjRkU4NUZtcm9OekxqWkdob212dUNFclRWSmczdmc1UkVRQTJ2dEFGTjVNeWFxR1MxR1ZRbnQteERvendGWU1vQjR1c1JlOUVocDIxdUViVGVzUnFqb3BWdzdWUWc?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-29",
-   "pode_mudar": true,
-   "orgaos": [
-    "mpmt-pgj",
-    "mpmt-promotorias"
-   ]
-  },
-  {
-   "id": "5bf5c8481a94",
-   "data": "2026-10-30",
-   "nivel": "vermelho",
-   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "ALMT — Portaria MD 67/2025",
-    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "almt"
-   ]
-  },
-  {
-   "id": "96a6ffbcc5fb",
-   "data": "2026-10-30",
-   "nivel": "vermelho",
-   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "MPMT — Portaria 759/2026-PGJ",
-    "url": "https://www.mpmt.mp.br/",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "mpmt-pgj",
-    "mpmt-promotorias"
-   ]
-  },
-  {
-   "id": "aff5f3fff43f",
-   "data": "2026-10-30",
-   "nivel": "vermelho",
-   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "TJMT — Portaria 1.254/2026",
-    "url": "https://www.tjmt.jus.br/",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "b3e637dd6527",
-   "data": "2026-10-30",
-   "nivel": "vermelho",
-   "titulo": "Ponto facultativo — Dia do Servidor (transferido)",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "Defensoria — Portaria 259/DPG",
-    "url": "https://www.defensoria.mt.def.br/",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "defensoria"
-   ]
-  },
-  {
-   "id": "eaeb3863be77",
-   "data": "2026-10-30",
-   "nivel": "verde",
-   "titulo": "TJMT faz mutirão para acelerar 197 julgamentos de crimes contra a vida",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ponto na Curva",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWZrS0ZWalZxOGRPZ3BFOVpWYnh0WldDbWV1MzlXTDF5cHNLcFlsZ2p0dDNjSmlLRE52THFYaHAyWXNNa2NpanhuS2ZsUnFNMEhPOVJXTVhKQTBmWXNWb0c3V1Z2clQ4aVp3NDZjbEoyelAtaWtZaVhCTVE5RVV0NUc5MjNONFA5bTBMc2p6d0JSUG1seWxmaUhvOXEtdG5YWi1Qb1doTExyWm9HdWlzN2N6UjVsOHNaQXJzOVRCaU9Ra3c?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-10-30",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "ebe8a7c976a3",
    "data": "2026-11-02",
@@ -1116,6 +1008,110 @@
   {
    "id": "ba22260a95b3",
    "data": "2026-12-29",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Assembleia Legislativa",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "ALMT — Portaria MD 67/2025",
+    "url": "https://diariooficial.al.mt.gov.br/publicacoes/?q=ponto+facultativo",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "0c3bddde4cdb",
+   "data": "2026-12-30",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "22781212f6e8",
+   "data": "2026-12-30",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "3930efa0080c",
+   "data": "2026-12-30",
+   "nivel": "vermelho",
+   "titulo": "Recesso da Justiça Eleitoral",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "TRE-MT — Portarias 358/2026 e 511/2025",
+    "url": "https://www.tre-mt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "tre"
+   ]
+  },
+  {
+   "id": "67ef5f3ad73e",
+   "data": "2026-12-30",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "6ffc30a1f0b0",
+   "data": "2026-12-30",
+   "nivel": "ambar",
+   "titulo": "Recesso do TCE-MT",
+   "detalhe": "Recesso até 29/01 (fonte secundária)",
+   "fonte": {
+    "nome": "TCE-MT — recesso (fonte secundária)",
+    "url": "https://www.tce.mt.gov.br/legislacoes/portarias",
+    "oficial": false
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tce"
+   ]
+  },
+  {
+   "id": "aff5a084a560",
+   "data": "2026-12-30",
    "nivel": "vermelho",
    "titulo": "Recesso da Assembleia Legislativa",
    "detalhe": "Dia todo",
