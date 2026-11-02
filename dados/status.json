@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-01T18:00-04:00",
- "hoje": "2026-11-01",
+ "gerado_em": "2026-11-02T01:59-04:00",
+ "hoje": "2026-11-02",
  "dias": [
   "2026-11-02",
   "2026-11-03",
@@ -1265,6 +1265,108 @@
    "pode_mudar": false,
    "orgaos": [
     "tre"
+   ]
+  },
+  {
+   "id": "2f601140a731",
+   "data": "2027-01-01",
+   "nivel": "vermelho",
+   "titulo": "Feriado nacional — Confraternização Universal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 662/1949 (feriados nacionais)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "mpmt-pgj",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "tce",
+    "paiaguas",
+    "tjmt",
+    "sema",
+    "secom",
+    "defensoria",
+    "tre",
+    "forum",
+    "almt",
+    "mpmt-promotorias",
+    "sinfra",
+    "seduc",
+    "jfmt",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "receita",
+    "juizados",
+    "trt",
+    "mtprev"
+   ]
+  },
+  {
+   "id": "3bb49d283940",
+   "data": "2027-01-01",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "53f4afc53771",
+   "data": "2027-01-01",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "b0d75c3c49c8",
+   "data": "2027-01-01",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   }
  ],
