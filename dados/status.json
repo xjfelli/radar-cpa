@@ -1,64 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-02T22:54-04:00",
- "hoje": "2026-11-02",
+ "gerado_em": "2026-11-03T13:01-04:00",
+ "hoje": "2026-11-03",
  "dias": [
-  "2026-11-02",
   "2026-11-03",
   "2026-11-04",
   "2026-11-05",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-09"
  ],
  "eventos": [
-  {
-   "id": "ebe8a7c976a3",
-   "data": "2026-11-02",
-   "nivel": "vermelho",
-   "titulo": "Feriado nacional — Finados",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "Lei 662/1949 (feriados nacionais)",
-    "url": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "mpmt-pgj",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "tce",
-    "paiaguas",
-    "tjmt",
-    "sema",
-    "secom",
-    "defensoria",
-    "tre",
-    "forum",
-    "almt",
-    "mpmt-promotorias",
-    "sinfra",
-    "seduc",
-    "jfmt",
-    "intermat",
-    "sefaz",
-    "sedec",
-    "receita",
-    "juizados",
-    "trt",
-    "mtprev"
-   ]
-  },
   {
    "id": "e85ecf647ebe",
    "data": "2026-11-20",
