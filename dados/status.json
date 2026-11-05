@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-05T02:44-04:00",
+ "gerado_em": "2026-11-05T13:23-04:00",
  "hoje": "2026-11-05",
  "dias": [
   "2026-11-05",
@@ -10,6 +10,23 @@
   "2026-11-11"
  ],
  "eventos": [
+  {
+   "id": "8a1337d6c4b9",
+   "data": "2026-11-12",
+   "nivel": "verde",
+   "titulo": "Detran realiza mutirão de exames para primeira habilitação em Mossoró de 9 a 12 de novembro",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "difusoramossoro.com.br",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnNvRjNnTnRMLWJjc0c5c1VJcTUtQnVFX2I4elNUTmItamlRRnJ5anBZUHpWWFdIQXlaVWhoczVIUGpCUDJNYW13M2ROU05xRFpweWo3bHc3MnZzTDIxdWNTM1FSSll3Q2FGVFI5YTdVVjlUN1JITTJBYVJ6cmVSYmVwT2RxZnpiZFVTd0xMUzRhZm9aejFCczZ5RF9KbHVwM05LRFdrMmo3ek9sUGtONDFNNTk5Y09udkV6OGZicVU?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-05",
+   "pode_mudar": true,
+   "orgaos": [
+    "detran"
+   ]
+  },
   {
    "id": "e85ecf647ebe",
    "data": "2026-11-20",
