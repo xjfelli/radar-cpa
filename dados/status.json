@@ -1,13 +1,13 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T19:39-04:00",
- "hoje": "2026-11-04",
+ "gerado_em": "2026-11-05T02:44-04:00",
+ "hoje": "2026-11-05",
  "dias": [
-  "2026-11-04",
   "2026-11-05",
   "2026-11-06",
   "2026-11-09",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
  "eventos": [
   {
@@ -1318,6 +1318,59 @@
     "tjmt",
     "forum",
     "juizados"
+   ]
+  },
+  {
+   "id": "05c799733189",
+   "data": "2027-01-04",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "1d8d1d03d4ef",
+   "data": "2027-01-04",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "3e0d55951845",
+   "data": "2027-01-04",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
    ]
   }
  ],
