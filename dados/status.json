@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-06T02:42-04:00",
+ "gerado_em": "2026-11-06T12:45-04:00",
  "hoje": "2026-11-06",
  "dias": [
   "2026-11-06",
@@ -10,6 +10,25 @@
   "2026-11-12"
  ],
  "eventos": [
+  {
+   "id": "cefcf3932819",
+   "data": "2026-11-06",
+   "nivel": "verde",
+   "titulo": "TJMT pauta 500 audiências em mutirão para regularizar ligações de imóveis à rede de esgoto",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "CenárioMT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0NxOEkwRldTWVo4aGM5QThvbm92dk9CSjZPOXF4ajlGMXI1WnVlZHRQOE1tLXdEZTdWZGlJYlloU0wwTkZ6STFfUTlpc2labV8zQklRWlE5OXFLRHFfcEpPREdTNnhHNDJ2WXk2RnNsLXBOcUl4ZmlMV3piR3YxOUtfMlVCeEoxcjRiWWE1YkV3TXM?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-06",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
   {
    "id": "8a1337d6c4b9",
    "data": "2026-11-12",
