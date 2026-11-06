@@ -1,51 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-05T19:37-04:00",
- "hoje": "2026-11-05",
+ "gerado_em": "2026-11-06T02:42-04:00",
+ "hoje": "2026-11-06",
  "dias": [
-  "2026-11-05",
   "2026-11-06",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "eventos": [
-  {
-   "id": "34a8c72aeb95",
-   "data": "2026-11-05",
-   "nivel": "ambar",
-   "titulo": "ALMT aprova projeto que impede desconto salarial de servidores por greve com reposição dos dias",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Fatos de Mato Grosso",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZk5QYlU1TkRvTDJ3UjJMZ1F2dUtwZkFYcDJMODRtR203M0wtVFM1SVEtMldZUGRtVVJ3SUQyakUxLWpnZUJxQ0V3ejl4MDZEQ09FQW53Zmp0dWM4THhUYllGZW5oSFcwT3hmY1MzOHRENFNoVS1tYVMxdXF1NDZ0RFczUGs1dW0xa1lvenltYkpZM2dNTFNzQjR0WVJxVUdqQXJHbFFWS1Etall1NThyZjhJTlBJVm4zWm9TbW1uUWJTQnNBT3BSMXhjVnlvVEswRWVMclVWYVZBRmEyZWRmZw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-05",
-   "pode_mudar": true,
-   "orgaos": [
-    "almt"
-   ]
-  },
-  {
-   "id": "8853480c84d7",
-   "data": "2026-11-05",
-   "nivel": "verde",
-   "titulo": "TJMT realiza 10ª edição do Mutirão de Conciliação Ambiental",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "FOLHAMAX",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzd5a1hvMTBmNXlhcVJZOUN2QzNnTmZnT2pfc3pzdTU0bjlxREJTRlY1ajRBUGRpdW9rQUd5alFDRGs2Z1RlQ2twZjlLdldEU2YzRGhFWGpDbnp5NGxfQmh4eUxzeXQyUUJCZkl4cnNzUTNEQ1M0TzBFZnl6WjVWVkVDaENmaFhBNG1idHFjNFJwaUhodzJDQ2hNaG1OUHc?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-05",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "8a1337d6c4b9",
    "data": "2026-11-12",
@@ -110,6 +74,25 @@
     "juizados",
     "trt",
     "mtprev"
+   ]
+  },
+  {
+   "id": "66bfc0930ce3",
+   "data": "2026-11-27",
+   "nivel": "verde",
+   "titulo": "TJMT realizará 10ª edição do Mutirão de Conciliação Ambiental de 23 a 27 de novembro",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Poder Judiciário do Estado de Mato Grosso",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTg0ZTZoeU1sd0lBQllHVVR2U1BFb3RBUzYxNFNWMUxfcDg3WUVhTFQ5eEV6SVp5WmhiandqbXAzdXYtSmM0OUZtREs2N1BobGFaSEN5RFlrdHNQUk5fZFl2YXB0cElKM3FRbzVhNGx2aUE3VDM2b2M1bGxjZFkxdE1hb3IzRmhmRW83ckk2Y2N1aV9NVVFUWnI5cjNHYUoycV9IRkptVlVwZGt4amFUd2dB?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-05",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   },
   {
@@ -1424,6 +1407,59 @@
    "pode_mudar": false,
    "orgaos": [
     "trt"
+   ]
+  },
+  {
+   "id": "5bc8465cdb33",
+   "data": "2027-01-05",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "63ab021da365",
+   "data": "2027-01-05",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
+   ]
+  },
+  {
+   "id": "78317b664db3",
+   "data": "2027-01-05",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   }
  ],
