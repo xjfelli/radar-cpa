@@ -1,34 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-06T19:07-04:00",
- "hoje": "2026-11-06",
+ "gerado_em": "2026-11-07T01:57-04:00",
+ "hoje": "2026-11-07",
  "dias": [
-  "2026-11-06",
   "2026-11-09",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "eventos": [
-  {
-   "id": "cefcf3932819",
-   "data": "2026-11-06",
-   "nivel": "verde",
-   "titulo": "TJMT pauta 500 audiências em mutirão para regularizar ligações de imóveis à rede de esgoto",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "CenárioMT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0NxOEkwRldTWVo4aGM5QThvbm92dk9CSjZPOXF4ajlGMXI1WnVlZHRQOE1tLXdEZTdWZGlJYlloU0wwTkZ6STFfUTlpc2labV8zQklRWlE5OXFLRHFfcEpPREdTNnhHNDJ2WXk2RnNsLXBOcUl4ZmlMV3piR3YxOUtfMlVCeEoxcjRiWWE1YkV3TXM?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-06",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "8a1337d6c4b9",
    "data": "2026-11-12",
@@ -1479,6 +1460,59 @@
     "tjmt",
     "forum",
     "juizados"
+   ]
+  },
+  {
+   "id": "1366818ed954",
+   "data": "2027-01-06",
+   "nivel": "ambar",
+   "titulo": "Recesso forense — só plantão (padrão dos anos anteriores)",
+   "detalhe": "Datas de 2026/27 ainda não confirmadas",
+   "fonte": {
+    "nome": "TJMT — Portaria 1.254/2026",
+    "url": "https://www.tjmt.jus.br/",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
+  {
+   "id": "3500ccb099fa",
+   "data": "2027-01-06",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça Federal",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "jfmt"
+   ]
+  },
+  {
+   "id": "8e9fcd290674",
+   "data": "2027-01-06",
+   "nivel": "vermelho",
+   "titulo": "Recesso forense da Justiça do Trabalho",
+   "detalhe": "Dia todo",
+   "fonte": {
+    "nome": "Lei 5.010/1966, art. 62 (recesso forense federal)",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l5010.htm",
+    "oficial": true
+   },
+   "publicado_em": null,
+   "pode_mudar": false,
+   "orgaos": [
+    "trt"
    ]
   }
  ],
