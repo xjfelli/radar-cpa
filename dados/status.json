@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-09T02:25-04:00",
+ "gerado_em": "2026-11-09T15:47-04:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-11-09",
@@ -73,62 +73,6 @@
     "receita",
     "juizados",
     "trt",
-    "mtprev"
-   ]
-  },
-  {
-   "id": "66bfc0930ce3",
-   "data": "2026-11-27",
-   "nivel": "verde",
-   "titulo": "TJMT realizará 10ª edição do Mutirão de Conciliação Ambiental de 23 a 27 de novembro",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Poder Judiciário do Estado de Mato Grosso",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTg0ZTZoeU1sd0lBQllHVVR2U1BFb3RBUzYxNFNWMUxfcDg3WUVhTFQ5eEV6SVp5WmhiandqbXAzdXYtSmM0OUZtREs2N1BobGFaSEN5RFlrdHNQUk5fZFl2YXB0cElKM3FRbzVhNGx2aUE3VDM2b2M1bGxjZFkxdE1hb3IzRmhmRW83ckk2Y2N1aV9NVVFUWnI5cjNHYUoycV9IRkptVlVwZGt4amFUd2dB?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-05",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "c5feb9eedf4c",
-   "data": "2026-11-28",
-   "nivel": "verde",
-   "titulo": "Evidência",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Gazeta Digital",
-    "url": "https://www.gazetadigital.com.br/variedades/fernando-baracat/evidencia/864794",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-09",
-   "pode_mudar": true,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "paiaguas",
-    "sema",
-    "secom",
-    "sinfra",
-    "seduc",
-    "intermat",
-    "sefaz",
-    "sedec",
     "mtprev"
    ]
   },
