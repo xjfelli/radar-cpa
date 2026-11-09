@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-08T18:03-04:00",
- "hoje": "2026-11-08",
+ "gerado_em": "2026-11-09T02:25-04:00",
+ "hoje": "2026-11-09",
  "dias": [
   "2026-11-09",
   "2026-11-10",
@@ -21,7 +21,7 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnNvRjNnTnRMLWJjc0c5c1VJcTUtQnVFX2I4elNUTmItamlRRnJ5anBZUHpWWFdIQXlaVWhoczVIUGpCUDJNYW13M2ROU05xRFpweWo3bHc3MnZzTDIxdWNTM1FSSll3Q2FGVFI5YTdVVjlUN1JITTJBYVJ6cmVSYmVwT2RxZnpiZFVTd0xMUzRhZm9aejFCczZ5RF9KbHVwM05LRFdrMmo3ek9sUGtONDFNNTk5Y09udkV6OGZicVU?oc=5",
     "oficial": false
    },
-   "publicado_em": "2026-11-05",
+   "publicado_em": "2026-11-07",
    "pode_mudar": true,
    "orgaos": [
     "detran"
@@ -93,6 +93,43 @@
     "tjmt",
     "forum",
     "juizados"
+   ]
+  },
+  {
+   "id": "c5feb9eedf4c",
+   "data": "2026-11-28",
+   "nivel": "verde",
+   "titulo": "Evidência",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Gazeta Digital",
+    "url": "https://www.gazetadigital.com.br/variedades/fernando-baracat/evidencia/864794",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-09",
+   "pode_mudar": true,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
    ]
   },
   {
