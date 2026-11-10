@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-09T15:47-04:00",
+ "gerado_em": "2026-11-09T23:33-04:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-11-09",
@@ -10,6 +10,60 @@
   "2026-11-13"
  ],
  "eventos": [
+  {
+   "id": "1f2e20dc8bf9",
+   "data": "2026-11-09",
+   "nivel": "ambar",
+   "titulo": "Max busca consenso em disputa por cargos na Mesa da AL",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Gazeta Digital",
+    "url": "https://www.gazetadigital.com.br/editorias/politica-de-mt/max-busca-consenso-em-disputa-por-cargos-na-mesa-da-al/864914",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-09",
+   "pode_mudar": true,
+   "orgaos": [
+    "almt"
+   ]
+  },
+  {
+   "id": "86a6e0b6dc24",
+   "data": "2026-11-09",
+   "nivel": "ambar",
+   "titulo": "Max busca consenso em disputa por cargos na Mesa da AL",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Gazeta Digital",
+    "url": "https://www.gazetadigital.com.br/editorias/politica-de-mt/max-busca-consenso-em-disputa-por-cargos-na-mesa-da-al/864914",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-09",
+   "pode_mudar": true,
+   "orgaos": [
+    "cridac",
+    "seciteci",
+    "lacen",
+    "saap",
+    "ses",
+    "sesp",
+    "iomat",
+    "seplag",
+    "setasc",
+    "detran",
+    "cge",
+    "jucemat",
+    "paiaguas",
+    "sema",
+    "secom",
+    "sinfra",
+    "seduc",
+    "intermat",
+    "sefaz",
+    "sedec",
+    "mtprev"
+   ]
+  },
   {
    "id": "8a1337d6c4b9",
    "data": "2026-11-12",
