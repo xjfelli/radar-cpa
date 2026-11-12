@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-12T05:48-04:00",
+ "gerado_em": "2026-11-12T15:53-04:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-11-12",
@@ -10,6 +10,25 @@
   "2026-11-18"
  ],
  "eventos": [
+  {
+   "id": "3364f4d7cda2",
+   "data": "2026-11-12",
+   "nivel": "ambar",
+   "titulo": "TJMT alega calor e altera horário de expediente no recesso de fim de ano",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Midia Jur",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXdfWGtmdkFwNVN6Sy1lUGlydzJVOEU3c3hVMFgzN0VaNzNzb05MUlY0ZGkyUV9zUHhieDh2UThRQWpBdFNDb0FNZEdSc21rQWs3aTVpaUhGbXAzNGNFNGFRVHJyNWhuaEtES3liU01ENVVwOVQyNk1SdUU0Sllhak9GaExodVp5N2lUcDdsVUVZNGk3NkJEd0ZEWmFPc0JwcktrSFAyNTNyX2t3WVQtVDc1cDBMbHhtQkNNVHpoVng?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-12",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
+   ]
+  },
   {
    "id": "8a1337d6c4b9",
    "data": "2026-11-12",
