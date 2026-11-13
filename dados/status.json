@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-12T15:53-04:00",
+ "gerado_em": "2026-11-12T21:49-04:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-11-12",
@@ -11,22 +11,20 @@
  ],
  "eventos": [
   {
-   "id": "3364f4d7cda2",
+   "id": "0e5a21198fe7",
    "data": "2026-11-12",
    "nivel": "ambar",
-   "titulo": "TJMT alega calor e altera horário de expediente no recesso de fim de ano",
+   "titulo": "TJ suspende expediente no Fórum de Cuiabá",
    "detalhe": "Notícia na imprensa — confira a fonte",
    "fonte": {
-    "nome": "Midia Jur",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXdfWGtmdkFwNVN6Sy1lUGlydzJVOEU3c3hVMFgzN0VaNzNzb05MUlY0ZGkyUV9zUHhieDh2UThRQWpBdFNDb0FNZEdSc21rQWs3aTVpaUhGbXAzNGNFNGFRVHJyNWhuaEtES3liU01ENVVwOVQyNk1SdUU0Sllhak9GaExodVp5N2lUcDdsVUVZNGk3NkJEd0ZEWmFPc0JwcktrSFAyNTNyX2t3WVQtVDc1cDBMbHhtQkNNVHpoVng?oc=5",
+    "nome": "FOLHAMAX",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHJlX01QMTlhM19fT0lGVEFRUnFpcjFvTnE4Z2x0S1ZiVGhZdl9OdjZuVUxzY1R5SU5qc1ZydUUzMkFtaG9UVVNmcGlrVHg1LUtUeXZ4QVRPeFFjVldpYmtOTkFSNVJTUC1GNEVmOEpfeEIyVU5LN2VwZFlmQ2dhTHZzczV1WTRwYWF6SWtR?oc=5",
     "oficial": false
    },
    "publicado_em": "2026-11-12",
    "pode_mudar": true,
    "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
+    "forum"
    ]
   },
   {
@@ -44,6 +42,25 @@
    "pode_mudar": true,
    "orgaos": [
     "detran"
+   ]
+  },
+  {
+   "id": "ac0e9eb75591",
+   "data": "2026-11-12",
+   "nivel": "ambar",
+   "titulo": "Calor muda expediente do TJMT durante recesso forense",
+   "detalhe": "Notícia na imprensa — confira a fonte",
+   "fonte": {
+    "nome": "Estadão MT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlBCaF95ZEI5ZjREVWRHek40eWFjcldQY0RuamF1UldjZUNYZmMxb0hiamt4VUxGTGptc1ZPYWVucElXZlNsd0JSRUoxdFZNdE55ejI3SElERC0wM0NrTjVnaDZNeDZ3X0Q3dGktUERQTnFCRUdYMkIyQ1BSSjBnejJ0bXVNcDhzNUZwblVPYUtfYXJHMWdjbHJXSXpzSWJOVlltbVRtUDE3NGRC?oc=5",
+    "oficial": false
+   },
+   "publicado_em": "2026-11-12",
+   "pode_mudar": true,
+   "orgaos": [
+    "tjmt",
+    "forum",
+    "juizados"
    ]
   },
   {
