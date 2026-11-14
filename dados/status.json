@@ -1,51 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-13T21:26-04:00",
- "hoje": "2026-11-13",
+ "gerado_em": "2026-11-14T04:57-04:00",
+ "hoje": "2026-11-14",
  "dias": [
-  "2026-11-13",
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "eventos": [
-  {
-   "id": "1271d12f2d7b",
-   "data": "2026-11-13",
-   "nivel": "ambar",
-   "titulo": "Fórum de Cuiabá suspende expediente nesta sexta para reparos",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Midia Jur",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGFfTjlEc0ZaaDI3TUNHbklwMEdwZU51WjItZXVSY2VTbWhvTEVvaEVEcU5oYm1fYWxSVVFrMk1mMzNMaDREWEVoTk9JTmM2b1paNjg5OHRjZHhTdE55SFVQRUlwUURKMmt4dGZnRGJ2UWtzQk5kcFZrYTRjQzROZC1lWDV3VW5UcDBrczBVYk13WW1QejNGZUZnaGZrLWVPNlo4ZnZnaWJxRmJORTRmZw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-13",
-   "pode_mudar": true,
-   "orgaos": [
-    "forum"
-   ]
-  },
-  {
-   "id": "7f179715e529",
-   "data": "2026-11-13",
-   "nivel": "ambar",
-   "titulo": "Calor leva TJMT a alterar horário de expediente no recesso forense",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ponto na Curva",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1VrZ0RVdks3TW9kVjFJdm1QWHVhY2loWlFtUWJuR1JuM0QzeTZPdTdaOGpUVjBQRGJtSVhxYkoyUlBmUVZpZ2UyNHFpSkJHLVdBeUJtWnlqaGt4Tkg1ejlVdmp3aDJzbXJhdjhxVWRFYXNzZDlqMGt5blp0TkRVN05rLS15WThZZEdZUW9uaVJFYndlRHdaak1PZ3NSZTZ2Mi1fTVNnWHZ2b2JCTDNHbGtMS1E4eGtWZ3ltQ1dR?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-13",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "e85ecf647ebe",
    "data": "2026-11-20",
