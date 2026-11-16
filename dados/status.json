@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-15T18:47-04:00",
- "hoje": "2026-11-15",
+ "gerado_em": "2026-11-16T02:26-04:00",
+ "hoje": "2026-11-16",
  "dias": [
   "2026-11-16",
   "2026-11-17",
@@ -10,25 +10,6 @@
   "2026-11-20"
  ],
  "eventos": [
-  {
-   "id": "ac352e4fb108",
-   "data": "2026-11-15",
-   "nivel": "ambar",
-   "titulo": "Por causa do calor, TJMT antecipa expediente para 8h durante recesso em todo o Estado",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "JBNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUYyRHBaWWpPOFpXNFRFNnk0OGswa1p0emZCSFcyTXAxaTRNZ2pmV1dlYmhucWhiYWM2X0RpMUVNT2xWRnEwdnhEanhZQnJKVkdUUEN1T28wcDZJYmI5V0ViWDRjYmJHekltMnRqMncxZEZSa2JJMFNRZGtkMExRVHRvVGVvTEpISk5NVTYwYzJFY1piZW8tbE9JX0hDVmNwOURqaEZjRDNhUHc?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-15",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "e85ecf647ebe",
    "data": "2026-11-20",
