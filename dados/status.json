@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-21T03:05-04:00",
+ "gerado_em": "2026-11-21T12:46-04:00",
  "hoje": "2026-11-21",
  "dias": [
   "2026-11-23",
@@ -10,23 +10,6 @@
   "2026-11-27"
  ],
  "eventos": [
-  {
-   "id": "86a8cbfaca99",
-   "data": "2026-11-21",
-   "nivel": "verde",
-   "titulo": "Seduc e Senai promovem mutirão para 184 vagas de cursos técnicos até sábado (21)",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Alagoas 24 Horas",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjNCdXN0eTRxakxIcjhaTEw2bnM4WHBMWkdSSkVoZTZkOFEwc0Y1c0VjdE9YWXBnOVRFUWdidG1HOEU1eF9vTERHRmx4S1ppSUtrM0RmZFg1SC16V01CRV84REk4b2RQNVdyQlNxREE3MVBCYkd3RHE0YlpvMmVfYjN5UkdLdm93cTVCMmZmMklrZ1pkRmxNOHVOd1l1R3pBaTdZNF92cm5TRGJOemRRWjNVUVQ5YXJmT3BFLTRR0gHDAUFVX3lxTFBteHlDYkxnd3I2NDhnVjgwWE0tbEhzRDlrNW5wUzZFWEYwLVFfeTdPaWpHLU5pX0Zvam1HVE1heUJQU1RVSGFUMW41NGVFZmFPb1pFSFhmX3UzRUR0a2Y4VE9qUllKRkZpNEhkUWhFUU5XZXF6STJ2cTUxcHpJd1VmMjk3VzloRWVKVnFnU00xVlNDTGYzcWxBbnZPZFlLN243blZCaUI2VmNPWS1XWTJWbWNYYjFYMVVVUVVaeU1FNHg1bw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-18",
-   "pode_mudar": true,
-   "orgaos": [
-    "seduc"
-   ]
-  },
   {
    "id": "8e901c372bdf",
    "data": "2026-12-07",
