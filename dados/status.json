@@ -1,64 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-20T19:58-04:00",
- "hoje": "2026-11-20",
+ "gerado_em": "2026-11-21T03:05-04:00",
+ "hoje": "2026-11-21",
  "dias": [
-  "2026-11-20",
   "2026-11-23",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "eventos": [
-  {
-   "id": "e85ecf647ebe",
-   "data": "2026-11-20",
-   "nivel": "vermelho",
-   "titulo": "Feriado nacional — Dia da Consciência Negra",
-   "detalhe": "Dia todo",
-   "fonte": {
-    "nome": "Lei 14.759/2023",
-    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14759.htm",
-    "oficial": true
-   },
-   "publicado_em": null,
-   "pode_mudar": false,
-   "orgaos": [
-    "cridac",
-    "seciteci",
-    "lacen",
-    "mpmt-pgj",
-    "saap",
-    "ses",
-    "sesp",
-    "iomat",
-    "seplag",
-    "setasc",
-    "detran",
-    "cge",
-    "jucemat",
-    "tce",
-    "paiaguas",
-    "tjmt",
-    "sema",
-    "secom",
-    "defensoria",
-    "tre",
-    "forum",
-    "almt",
-    "mpmt-promotorias",
-    "sinfra",
-    "seduc",
-    "jfmt",
-    "intermat",
-    "sefaz",
-    "sedec",
-    "receita",
-    "juizados",
-    "trt",
-    "mtprev"
-   ]
-  },
   {
    "id": "86a8cbfaca99",
    "data": "2026-11-21",
