@@ -1,51 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-24T18:25-04:00",
- "hoje": "2026-11-24",
+ "gerado_em": "2026-11-25T04:30-04:00",
+ "hoje": "2026-11-25",
  "dias": [
-  "2026-11-24",
   "2026-11-25",
   "2026-11-26",
   "2026-11-27",
-  "2026-11-30"
+  "2026-11-30",
+  "2026-12-01"
  ],
  "eventos": [
-  {
-   "id": "1c55bc88a3fa",
-   "data": "2026-11-24",
-   "nivel": "verde",
-   "titulo": "TJMT inicia mutirão para estimular acordos ambientais 24.11.2026 10h08",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Ponto na Curva",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2aUVhREMxWC15MHgtbkUzMGlaZGo5R2VTMEF3N01zTzNhRnZqNzZjdWl0aS10WkdtNUlhSFBXUHlTRmJ4bXItdlpfdTVGME9NSm96cg?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-24",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
-  {
-   "id": "215a62ae0061",
-   "data": "2026-11-24",
-   "nivel": "ambar",
-   "titulo": "Professores da Seduc paralisam atividades na quarta e anunciam greve para dia 30",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Portal Único",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzk1VkVDQTFxYkZDUkRZbElhTkozU19SVjY5VDZTeFUybTFPOUZ2SklNRDdObnh6QUZfWm9SSlE5Z2kxa3EyZzdVNEZ1NGM4MTYxMGlsVDVlTTU5TE5sTFY5czd2dVBpeUNkVFNKT3VRRmsxSFJBNW5iZnZabDRnSFpoVlJIX2t2dHlySkNRd1ZGZ0Q1a0xqNGdmeXB1LUdKUFd3S0ZCUDQ?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-24",
-   "pode_mudar": true,
-   "orgaos": [
-    "seduc"
-   ]
-  },
   {
    "id": "8e901c372bdf",
    "data": "2026-12-07",
