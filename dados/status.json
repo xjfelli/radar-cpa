@@ -1,34 +1,15 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-25T23:33-04:00",
- "hoje": "2026-11-25",
+ "gerado_em": "2026-11-26T14:59-04:00",
+ "hoje": "2026-11-26",
  "dias": [
-  "2026-11-25",
   "2026-11-26",
   "2026-11-27",
   "2026-11-30",
-  "2026-12-01"
+  "2026-12-01",
+  "2026-12-02"
  ],
  "eventos": [
-  {
-   "id": "fc7fc57c2ff3",
-   "data": "2026-11-25",
-   "nivel": "verde",
-   "titulo": "TJMT realiza mutirão com 233 procedimentos por infrações ambientais em Mato Grosso",
-   "detalhe": "Notícia na imprensa — confira a fonte",
-   "fonte": {
-    "nome": "Caldeirão Político",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHBVcVVkQTBmQk1NaEotWHJ4aDN0Y1dFRzY0NUZ0dzdXeTlOZ2RibHJOTUdSQ01HUUtTR2w0aWRUeGp5TFN4cV90RlJFQVJRSVNoWEdLdkxabWRuLWxPcGtxOHRKUjRHOXpIY2JORDg1Y3JlcmE4VzEyRlhJRXk0RXdDNVN5SlN2dThuUXk2bU5ZZ0JGdDRjT1U1c1czQXZ2QmtVZmZzamM0c3g2dzdZeTZYcTZ6ajM2ZGZmX3JPUmdkeFRwa2g1bVlZa1ZOZw?oc=5",
-    "oficial": false
-   },
-   "publicado_em": "2026-11-25",
-   "pode_mudar": true,
-   "orgaos": [
-    "tjmt",
-    "forum",
-    "juizados"
-   ]
-  },
   {
    "id": "8e901c372bdf",
    "data": "2026-12-07",
@@ -1458,8 +1439,8 @@
   },
   {
    "nome": "Google Notícias",
-   "ok": true,
-   "erro": null
+   "ok": false,
+   "erro": "HTTPError"
   },
   {
    "nome": "g1 MT",
