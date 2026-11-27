@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-26T14:59-04:00",
+ "gerado_em": "2026-11-26T23:38-04:00",
  "hoje": "2026-11-26",
  "dias": [
   "2026-11-26",
@@ -1439,8 +1439,8 @@
   },
   {
    "nome": "Google Notícias",
-   "ok": false,
-   "erro": "HTTPError"
+   "ok": true,
+   "erro": null
   },
   {
    "nome": "g1 MT",
