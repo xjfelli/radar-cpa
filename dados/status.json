@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-27T14:57-04:00",
+ "gerado_em": "2026-11-27T23:18-04:00",
  "hoje": "2026-11-27",
  "dias": [
   "2026-11-27",
@@ -1434,8 +1434,8 @@
  "fontes": [
   {
    "nome": "Diário Oficial de MT",
-   "ok": false,
-   "erro": "URLError"
+   "ok": true,
+   "erro": null
   },
   {
    "nome": "Google Notícias",
